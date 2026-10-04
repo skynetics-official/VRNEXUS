@@ -1,1 +1,11 @@
-
+[
+    {
+        "title": "Horizon Call of the Mountain",
+        "year": 2023,
+        "genres": ["adventure"],
+        "platforms": ["psvr2"],
+        "rating": "8.8",
+        "storeUrl": "https://store.playstation.com/concept/10005703",
+        "desc": "Покоряйте вершины и сражайтесь с грозными машинами в новом приключении для PlayStation VR2."
+    }
+]
