@@ -117,6 +117,11 @@ def steam_find(title, cache):
     return app
 
 
+def names_match(a, b):
+    x, y = norm_loose(a), norm_loose(b)
+    return bool(x and y) and (x == y or (len(min(x, y, key=len)) >= 4 and (x in y or y in x)))
+
+
 def strip_html(s):
     return html.unescape(re.sub(r'<[^>]+>', ' ', s or '')).strip()
 
@@ -266,12 +271,20 @@ def main():
                     by_app[str(app)] = add({'title': d['name'], 'platforms': ['steam'], 'app': str(app)})
         # 3) детали и рейтинг
         n = len(by_app)
-        for i, (app, e) in enumerate(by_app.items(), 1):
+        for i, (app, e) in enumerate(list(by_app.items()), 1):
             if i % 25 == 0:
                 log(f'  Steam: {i}/{n}')
             d = steam_details(app, cache)
-            if not d:
-                continue
+            if not d or not names_match(d['name'], e['title']):
+                # неверный Steam ID (картинка чужой игры): ищем по названию заново
+                log(f'  ! ID {app} не совпадает с "{e["title"]}", ищу заново')
+                e.pop('app', None)
+                new = steam_find(e['title'], cache)
+                d = steam_details(new, cache) if new and str(new) != app else None
+                if not d or not names_match(d['name'], e['title']):
+                    continue
+                app = str(new)
+                e['app'] = app
             if 'steam' not in e.get('platforms', []):
                 e.setdefault('platforms', []).append('steam')
             if d['desc'] and (not e.get('desc') or not e['_manual']):
