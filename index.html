@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR Catalog | Игры для виртуальной реальности</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-content">
+            <h1>VR <span>GAMES</span></h1>
+            <div class="controls">
+                <input type="text" id="searchInput" placeholder="Поиск игр...">
+                <select id="platformFilter">
+                    <option value="all">Все платформы</option>
+                    <option value="SteamVR">SteamVR</option>
+                    <option value="Quest">Meta Quest</option>
+                    <option value="PSVR2">PS VR2</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="gamesGrid" class="games-grid">
+            <!-- Игры будут загружаться сюда через JavaScript -->
+        </div>
+    </main>
+
+    <!-- Модальное окно (всплывающее окно с подробностями) -->
+    <div id="gameModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <img id="modalImage" src="" alt="">
+            <h2 id="modalTitle">Название игры</h2>
+            <div class="modal-tags" id="modalTags"></div>
+            <p id="modalDescription">Описание</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
