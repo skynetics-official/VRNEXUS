@@ -1,0 +1,24 @@
+name: Update games data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * 1'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: python build_data.py --limit 400
+        env:
+          RAWG_KEY: ${{ secrets.RAWG_KEY }}
+      - name: Save
+        run: |
+          git config user.name "vrnexus-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add games.json
+          git diff --cached --quiet || (git commit -m "Update games.json" && git push)
