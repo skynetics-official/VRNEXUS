@@ -1,1 +1,11 @@
-
+[
+    {
+        "title": "Asgard's Wrath 2",
+        "year": 2023,
+        "genres": ["rpg", "action"],
+        "platforms": ["quest"],
+        "rating": "9.5",
+        "storeUrl": "https://www.meta.com/experiences/asgards-wrath-2/2603836099654226/",
+        "desc": "Масштабная ролевая игра в мире египетской мифологии с огромным открытым миром."
+    }
+]
