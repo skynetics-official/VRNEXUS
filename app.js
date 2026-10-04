@@ -95,20 +95,15 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (!g) return;
             const q = encodeURIComponent(g.title);
             
-            // Определяем куда вести по кнопке покупки
-            let storeLink = g.storeUrl;
-            let storeName = 'Магазин';
-            let storeIcon = 'fa-store';
-            
-            if (g.app) {
-                storeLink = `https://store.steampowered.com/app/${g.app}`;
-                storeName = 'Steam';
-                storeIcon = 'fa-steam';
-            } else if (!storeLink) {
-                storeLink = `https://www.google.com/search?q=${q}+VR+game+buy`;
-                storeName = 'Найти в сети';
-                storeIcon = 'fa-globe';
-            }
+            // Кнопки магазинов: по одной на каждую платформу игры
+            const has = p => g.platforms.includes(p);
+            const direct = key => (g.storeUrl && g.storeUrl.includes(key)) ? g.storeUrl : '';
+            const stores = [];
+            if (has('steam')) stores.push({ name: 'Steam', icon: 'fa-steam', href: g.app ? `https://store.steampowered.com/app/${g.app}` : `https://store.steampowered.com/search/?term=${q}` });
+            if (has('quest')) stores.push({ name: 'Meta Quest Store', icon: 'fa-meta', href: direct('meta.com') || `https://www.google.com/search?q=${q}+site%3Ameta.com%2Fexperiences` });
+            if (has('psvr2')) stores.push({ name: 'PlayStation Store', icon: 'fa-playstation', href: direct('playstation.com') || `https://store.playstation.com/en-us/search/${q}` });
+            if (!stores.length) stores.push({ name: 'Найти в сети', icon: 'fa-globe', href: `https://www.google.com/search?q=${q}+VR+game+buy` });
+            const storeBtns = stores.map(st => `<a href="${st.href}" target="_blank" rel="noopener" class="bg-vr-accent2 text-vr-dark font-bold py-2.5 px-5 rounded-xl hover:brightness-110 transition flex items-center gap-2"><i class="fa-brands ${st.icon}"></i> ${st.name}</a>`).join('');
 
             modalBody.innerHTML = `
                 ${renderCover(g, 'modal-image-box')}
@@ -122,7 +117,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     <div class="flex flex-wrap gap-1.5 mb-4">${genreTags(g)}</div>
                     <p class="text-gray-200 mb-6 leading-relaxed">${esc(g.desc)}</p>
                     <div class="flex flex-wrap gap-3">
-                        <a href="${storeLink}" target="_blank" rel="noopener" class="bg-vr-accent2 text-vr-dark font-bold py-2.5 px-6 rounded-xl hover:brightness-110 transition flex items-center gap-2"><i class="fa-brands ${storeIcon}"></i> ${storeName}</a>
+                        ${storeBtns}
                         <a href="https://www.youtube.com/results?search_query=${q}+VR+trailer" target="_blank" rel="noopener" class="bg-white/10 font-bold py-2.5 px-6 rounded-xl hover:bg-white/20 transition flex items-center gap-2"><i class="fa-brands fa-youtube"></i> Трейлер</a>
                     </div>
                 </div>`;
