@@ -1,218 +1,70 @@
-:root {
-    --bg-color: #12141d;
-    --card-bg: #1e212b;
-    --text-main: #e2e8f0;
-    --text-muted: #94a3b8;
-    --accent: #38bdf8;
-    --accent-hover: #0ea5e9;
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 body {
-    background-color: var(--bg-color);
-    color: var(--text-main);
-    line-height: 1.6;
+    background-color: #232738;
+    background-image: radial-gradient(circle at 15% 40%, rgba(155,227,211,.07), transparent 30%), radial-gradient(circle at 85% 20%, rgba(195,177,245,.08), transparent 30%);
+    color: #eceaf7;
 }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-/* Шапка */
-.header {
-    background-color: rgba(30, 33, 43, 0.8);
-    backdrop-filter: blur(10px);
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    padding: 20px 0;
-    border-bottom: 1px solid rgba(255,255,255,0.05);
-}
-
-.header-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 15px;
-}
-
-.header h1 {
-    font-size: 24px;
-}
-
-.header h1 span {
-    color: var(--accent);
-}
-
-.controls {
-    display: flex;
-    gap: 10px;
-}
-
-input, select {
-    padding: 10px 15px;
-    border-radius: 8px;
-    border: 1px solid rgba(255,255,255,0.1);
-    background: rgba(0,0,0,0.2);
-    color: var(--text-main);
-    outline: none;
-}
-
-input:focus, select:focus {
-    border-color: var(--accent);
-}
-
-/* Сетка игр */
-.games-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 25px;
-    padding: 40px 0;
+.glass {
+    background: rgba(46, 51, 80, 0.88);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(255, 255, 255, .08);
 }
 
 .game-card {
-    background: var(--card-bg);
-    border-radius: 12px;
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid rgba(255,255,255,0.02);
-    display: flex;
-    flex-direction: column;
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+    cursor: pointer;
 }
 
 .game-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .25);
+    border-color: rgba(195, 177, 245, .5);
 }
 
-/* Контейнер картинки и полоска при наведении */
-.card-image {
+.filter-btn.active {
+    background: #c3b1f5;
+    color: #232738;
+    font-weight: 800;
+    border-color: transparent;
+}
+
+/* Исправление сплющивания картинок: сохраняем пропорции и центрируем */
+.game-image-box {
     width: 100%;
-    height: 160px;
+    height: 176px; /* фиксированная высота карточки */
+    position: relative;
+    overflow: hidden;
+    background-color: #1a1d28;
+}
+
+.game-image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* картинка заполняет блок без искажений и сплющивания */
+    object-position: center;
+    transition: transform 0.5s ease;
+}
+
+.game-card:hover .game-image-box img {
+    transform: scale(1.05);
+}
+
+/* Модальная картинка — адаптированная высота без искажений */
+.modal-image-box {
+    width: 100%;
+    max-height: 280px;
+    overflow: hidden;
+    background-color: #1a1d28;
+    position: relative;
+}
+
+.modal-image-box img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    display: block;
+    object-position: center;
 }
 
-.image-container {
-    position: relative;
-}
-
-.image-container::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0;
-    height: 4px;
-    background-color: var(--accent);
-    transition: width 0.4s ease;
-}
-
-.game-card:hover .image-container::after {
-    width: 100%; /* Полоска появляется при наведении */
-}
-
-/* Содержимое карточки */
-.card-content {
-    padding: 15px;
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-}
-
-.card-title {
-    font-size: 18px;
-    margin-bottom: 10px;
-}
-
-.platforms {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 15px;
-    flex-wrap: wrap;
-}
-
-.platform-tag {
-    font-size: 12px;
-    background: rgba(255,255,255,0.1);
-    padding: 4px 8px;
-    border-radius: 4px;
-}
-
-.btn {
-    margin-top: auto;
-    padding: 10px;
-    background-color: transparent;
-    color: var(--accent);
-    border: 1px solid var(--accent);
-    border-radius: 6px;
-    cursor: pointer;
-    transition: 0.2s;
-    font-weight: bold;
-}
-
-.btn:hover {
-    background-color: var(--accent);
-    color: #fff;
-}
-
-/* Модальное окно */
-.modal {
-    display: none;
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(0,0,0,0.8);
-    backdrop-filter: blur(5px);
-    z-index: 1000;
-    align-items: center;
-    justify-content: center;
-}
-
-.modal.active {
-    display: flex;
-}
-
-.modal-content {
-    background: var(--card-bg);
-    max-width: 600px;
-    width: 90%;
-    border-radius: 12px;
-    padding: 20px;
-    position: relative;
-}
-
-.modal-content img {
-    width: 100%;
-    border-radius: 8px;
-    margin-bottom: 15px;
-}
-
-.close-btn {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 28px;
-    cursor: pointer;
-    color: var(--text-muted);
-}
-
-.close-btn:hover {
-    color: #fff;
-}
-
-.modal-tags {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 15px;
-    color: var(--accent);
-    font-size: 14px;
-}
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #232738; }
+::-webkit-scrollbar-thumb { background: #4b5077; border-radius: 4px; }
