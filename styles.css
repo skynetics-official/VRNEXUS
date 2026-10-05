@@ -1,0 +1,79 @@
+body {
+    background-color: #232738;
+    background-image: radial-gradient(circle at 15% 40%, rgba(155,227,211,.07), transparent 30%), radial-gradient(circle at 85% 20%, rgba(195,177,245,.08), transparent 30%);
+    color: #eceaf7;
+}
+
+.glass {
+    background: rgba(46, 51, 80, 0.88);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(255, 255, 255, .08);
+}
+
+.game-card {
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+    cursor: pointer;
+}
+
+.game-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .25);
+    border-color: rgba(195, 177, 245, .5);
+}
+
+.filter-btn.active {
+    background: #c3b1f5;
+    color: #232738;
+    font-weight: 800;
+    border-color: transparent;
+}
+
+/* Исправление сплющивания картинок: сохраняем пропорции и центрируем */
+.game-image-box {
+    width: 100%;
+    height: 176px; /* фиксированная высота карточки */
+    position: relative;
+    overflow: hidden;
+    background-color: #1a1d28;
+}
+
+.game-image-box img,
+.modal-image-box img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* картинка заполняет блок без искажений и сплющивания */
+    object-position: center;
+    transition: transform 0.5s ease;
+}
+
+.game-card:hover .game-image-box img {
+    transform: scale(1.05);
+}
+
+/* Модальная картинка — адаптированная высота без искажений */
+.modal-image-box {
+    width: 100%;
+    aspect-ratio: 460 / 215;
+    max-height: 320px;
+    overflow: hidden;
+    background-color: #1a1d28;
+    position: relative;
+}
+
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #232738; }
+::-webkit-scrollbar-thumb { background: #4b5077; border-radius: 4px; }
+
+/* Плавное появление окна игры (в том числе по кнопке «Случайная игра») */
+#modal { animation: modalFade .25s ease; }
+#modal > div { animation: modalPop .35s cubic-bezier(.2, .8, .2, 1); }
+@keyframes modalFade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes modalPop { from { opacity: 0; transform: translateY(24px) scale(.94); } to { opacity: 1; transform: none; } }
+#modal.closing { animation: modalFadeOut .22s ease forwards; pointer-events: none; }
+#modal.closing > div { animation: modalPopOut .22s ease forwards; }
+@keyframes modalFadeOut { from { opacity: 1; } to { opacity: 0; } }
+@keyframes modalPopOut { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(18px) scale(.95); } }
+@media (prefers-reduced-motion: reduce) { #modal, #modal > div, #modal.closing, #modal.closing > div { animation: none; } }
