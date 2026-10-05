@@ -167,7 +167,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         document.getElementById('searchInput').oninput = e => { searchQuery = e.target.value; render(); };
-        document.getElementById('platformSelect').onchange = e => { currentPlatform = e.target.value; render(); };
+        // Вкладки платформ с количеством игр
+        const PT = [['all', 'Все платформы', 'fa-solid fa-vr-cardboard'], ['steam', 'Steam', 'fa-brands fa-steam'], ['quest', 'Meta Quest', 'fa-brands fa-meta'], ['psvr2', 'PS VR2', 'fa-brands fa-playstation']];
+        const tabsEl = document.getElementById('platformTabs');
+        tabsEl.innerHTML = PT.map(([k, label, icon]) => {
+            const n = k === 'all' ? games.length : games.filter(g => g.platforms.includes(k)).length;
+            return `<button class="ptab${k === 'all' ? ' active' : ''}" data-p="${k}" role="tab"><i class="${icon}"></i><span>${label}</span><b>${n}</b></button>`;
+        }).join('');
+        tabsEl.onclick = e => {
+            const b = e.target.closest('.ptab');
+            if (!b) return;
+            tabsEl.querySelectorAll('.ptab').forEach(x => x.classList.toggle('active', x === b));
+            currentPlatform = b.dataset.p;
+            render();
+        };
         document.getElementById('gamesGrid').onclick = e => {
             const cardEl = e.target.closest('[data-id]');
             if (cardEl) openModal(+cardEl.dataset.id);
