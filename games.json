@@ -54,19 +54,6 @@
   "rating": "9.9"
  },
  {
-  "title": "Half-Life: Alyx",
-  "year": 2020,
-  "genres": [
-   "shooter",
-   "action"
-  ],
-  "platforms": [
-   "steam"
-  ],
-  "app": "546560",
-  "desc": "Возвращение Valve во вселенную Half-Life. Полноценная игра, созданная специально для виртуальной реальности."
- },
- {
   "title": "Hijong Park's Defender Patrol",
   "platforms": [
    "steam"
@@ -217,6 +204,20 @@
   "rating": "9.8"
  },
  {
+  "title": "Half-Life: Alyx",
+  "year": 2020,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "steam"
+  ],
+  "app": "546560",
+  "desc": "Возвращение Valve во вселенную Half-Life. Полноценная игра, созданная специально для виртуальной реальности.",
+  "rating": "9.8"
+ },
+ {
   "title": "Hop Step Sing! VR Live 《Hop★Summer Tour 2020》",
   "platforms": [
    "steam"
@@ -297,6 +298,21 @@
   "rating": "9.8"
  },
  {
+  "title": "The Room VR: A Dark Matter",
+  "year": 2020,
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "1104380",
+  "desc": "Тактильные головоломки и загадочные локации.",
+  "rating": "9.8"
+ },
+ {
   "title": "Trombone Champ: Unflattened",
   "platforms": [
    "steam"
@@ -339,6 +355,19 @@
   "rating": "9.8"
  },
  {
+  "title": "VTOL VR",
+  "year": 2018,
+  "genres": [
+   "sim"
+  ],
+  "platforms": [
+   "steam"
+  ],
+  "app": "667970",
+  "desc": "Боевой авиасимулятор с интерактивной кабиной.",
+  "rating": "9.8"
+ },
+ {
   "title": "Walkabout Mini Golf",
   "year": 2020,
   "genres": [
@@ -350,7 +379,8 @@
    "psvr2"
   ],
   "app": "1408230",
-  "desc": "Расслабляющий мини-гольф с красивыми полями."
+  "desc": "Расслабляющий мини-гольф с красивыми полями.",
+  "rating": "9.8"
  },
  {
   "title": "Yupitergrad 🚀: Sneaki Peaki (Virtual Reality Adventure)",
@@ -705,18 +735,6 @@
   "rating": "9.7"
  },
  {
-  "title": "VTOL VR",
-  "year": 2018,
-  "genres": [
-   "sim"
-  ],
-  "platforms": [
-   "steam"
-  ],
-  "app": "667970",
-  "desc": "Боевой авиасимулятор с интерактивной кабиной."
- },
- {
   "title": "Планер Симулятор",
   "platforms": [
    "steam"
@@ -773,19 +791,19 @@
   ]
  },
  {
-  "title": "Beat Saber",
+  "title": "Blade & Sorcery",
   "year": 2018,
   "genres": [
-   "rhythm",
-   "action"
+   "action",
+   "sandbox"
   ],
   "platforms": [
-   "psvr2",
-   "quest",
-   "steam"
+   "steam",
+   "quest"
   ],
-  "app": "620980",
-  "desc": "Уникальная ритм-игра в виртуальной реальности. Разрезайте кубы световыми мечами под музыку."
+  "desc": "Фэнтези-песочница с физикой ближнего боя и магией.",
+  "app": "629730",
+  "rating": "9.6"
  },
  {
   "title": "BOMBANANA!",
@@ -1123,20 +1141,6 @@
   "rating": "9.6"
  },
  {
-  "title": "The Room VR: A Dark Matter",
-  "year": 2020,
-  "genres": [
-   "puzzle"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "1104380",
-  "desc": "Тактильные головоломки и загадочные локации."
- },
- {
   "title": "Toy Trains",
   "platforms": [
    "steam"
@@ -1279,18 +1283,20 @@
   "rating": "9.5"
  },
  {
-  "title": "Asgard's Wrath 2",
-  "year": 2023,
+  "title": "Beat Saber",
+  "year": 2018,
   "genres": [
-   "rpg",
+   "rhythm",
    "action"
   ],
   "platforms": [
-   "quest"
+   "psvr2",
+   "quest",
+   "steam"
   ],
-  "storeUrl": "https://www.meta.com/experiences/asgards-wrath-2/2603836099654226/",
-  "desc": "Масштабная ролевая игра в мире египетской мифологии с огромным открытым миром.",
-  "image": "https://media.rawg.io/media/screenshots/f62/f6279168547052c2907feb49559966eb.jpg"
+  "app": "620980",
+  "desc": "Уникальная ритм-игра в виртуальной реальности. Разрезайте кубы световыми мечами под музыку.",
+  "rating": "9.5"
  },
  {
   "title": "BLARP!",
@@ -1360,20 +1366,6 @@
    "adventure"
   ],
   "rating": "9.5"
- },
- {
-  "title": "Eleven Table Tennis",
-  "year": 2017,
-  "genres": [
-   "sport"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "488310",
-  "desc": "Реалистичный настольный теннис для VR."
  },
  {
   "title": "Eve of Souls: Static Pod",
@@ -1470,6 +1462,21 @@
   "rating": "9.5"
  },
  {
+  "title": "I Expect You To Die",
+  "year": 2016,
+  "genres": [
+   "puzzle"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "587430",
+  "desc": "Секретный агент с телекинезом и смертельные головоломки.",
+  "rating": "9.5"
+ },
+ {
   "title": "IL DIVINO: Michelangelo's Sistine Ceiling in VR",
   "platforms": [
    "steam"
@@ -1508,6 +1515,22 @@
    "action",
    "strategy"
   ],
+  "rating": "9.5"
+ },
+ {
+  "title": "Moss",
+  "year": 2018,
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "846470",
+  "desc": "Приключение мышки Квилл: платформер и взаимодействие.",
   "rating": "9.5"
  },
  {
@@ -2017,6 +2040,21 @@
   ]
  },
  {
+  "title": "Eleven Table Tennis",
+  "year": 2017,
+  "genres": [
+   "sport"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "488310",
+  "desc": "Реалистичный настольный теннис для VR.",
+  "rating": "9.4"
+ },
+ {
   "title": "Escape Simulator",
   "year": 2021,
   "genres": [
@@ -2307,6 +2345,20 @@
   "rating": "9.4"
  },
  {
+  "title": "Phasmophobia",
+  "year": 2020,
+  "genres": [
+   "horror"
+  ],
+  "platforms": [
+   "steam",
+   "psvr2"
+  ],
+  "app": "739630",
+  "desc": "Кооперативный хоррор про охоту на привидений.",
+  "rating": "9.4"
+ },
+ {
   "title": "Pih",
   "platforms": [
    "steam"
@@ -2332,7 +2384,8 @@
    "psvr2"
   ],
   "app": "1079800",
-  "desc": "Кинематографичный ритм-шутер под тяжёлый саундтрек."
+  "desc": "Кинематографичный ритм-шутер под тяжёлый саундтрек.",
+  "rating": "9.4"
  },
  {
   "title": "Premium Bowling",
@@ -2551,6 +2604,22 @@
   "genres": [
    "adventure"
   ],
+  "rating": "9.4"
+ },
+ {
+  "title": "Until You Fall",
+  "year": 2019,
+  "genres": [
+   "action",
+   "rhythm"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "858260",
+  "desc": "Рогалик-слэшер под синтвейв.",
   "rating": "9.4"
  },
  {
@@ -2883,18 +2952,19 @@
   "rating": "9.3"
  },
  {
-  "title": "I Expect You To Die",
-  "year": 2016,
+  "title": "Into the Radius",
+  "year": 2020,
   "genres": [
-   "puzzle"
+   "shooter",
+   "horror"
   ],
   "platforms": [
    "steam",
-   "quest",
-   "psvr2"
+   "quest"
   ],
-  "app": "587430",
-  "desc": "Секретный агент с телекинезом и смертельные головоломки."
+  "app": "1012790",
+  "desc": "Выживание в аномальной зоне, поиск артефактов.",
+  "rating": "9.3"
  },
  {
   "title": "Maskmaker",
@@ -3141,21 +3211,6 @@
   "rating": "9.3"
  },
  {
-  "title": "Until You Fall",
-  "year": 2019,
-  "genres": [
-   "action",
-   "rhythm"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "858260",
-  "desc": "Рогалик-слэшер под синтвейв."
- },
- {
   "title": "War Of Being",
   "platforms": [
    "steam"
@@ -3321,19 +3376,18 @@
   "rating": "9.2"
  },
  {
-  "title": "BONELAB",
-  "year": 2022,
+  "title": "BONEWORKS",
+  "year": 2019,
   "genres": [
    "action",
-   "sandbox",
-   "shooter"
+   "sandbox"
   ],
   "platforms": [
-   "quest",
    "steam"
   ],
-  "app": "1592190",
-  "desc": "Экспериментальная физическая песочница. Полная свобода действий, паркур, стрельба и невероятная поддержка пользовательских модов."
+  "app": "823500",
+  "desc": "Предшественник Bonelab, задавший стандарты физики.",
+  "rating": "9.2"
  },
  {
   "title": "Caliban Below",
@@ -3679,21 +3733,6 @@
    "action"
   ],
   "rating": "9.2"
- },
- {
-  "title": "Moss",
-  "year": 2018,
-  "genres": [
-   "adventure",
-   "puzzle"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "846470",
-  "desc": "Приключение мышки Квилл: платформер и взаимодействие."
  },
  {
   "title": "Nefertari: Journey to Eternity",
@@ -4277,6 +4316,21 @@
   "rating": "9.1"
  },
  {
+  "title": "Gorilla Tag",
+  "year": 2021,
+  "genres": [
+   "social",
+   "action"
+  ],
+  "platforms": [
+   "steam",
+   "quest"
+  ],
+  "app": "1533390",
+  "desc": "Бегайте и карабкайтесь, двигая только руками.",
+  "rating": "9.1"
+ },
+ {
   "title": "GRAB",
   "platforms": [
    "steam"
@@ -4336,18 +4390,20 @@
   "rating": "9.1"
  },
  {
-  "title": "Into the Radius",
-  "year": 2020,
+  "title": "Job Simulator",
+  "year": 2016,
   "genres": [
-   "shooter",
-   "horror"
+   "sim",
+   "sandbox"
   ],
   "platforms": [
    "steam",
-   "quest"
+   "quest",
+   "psvr2"
   ],
-  "app": "1012790",
-  "desc": "Выживание в аномальной зоне, поиск артефактов."
+  "app": "448280",
+  "desc": "Юмористический симулятор «работы» в мире роботов.",
+  "rating": "9.1"
  },
  {
   "title": "Light Repair Team #4",
@@ -4568,21 +4624,6 @@
   "app": "582560",
   "desc": "The Invisible Hours is a complex murder mystery in VR, in which players freely explore an intricate web of interwoven stories within a sprawling mansion. This is not a game. This is not a movie. This is a piece of immersive theatre with many tangled threads.",
   "rating": "9.1"
- },
- {
-  "title": "The Walking Dead: Saints & Sinners",
-  "year": 2020,
-  "genres": [
-   "horror",
-   "action"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "916840",
-  "desc": "Выживание среди зомби в разрушенном Новом Орлеане."
  },
  {
   "title": "Under Pressure",
@@ -5077,20 +5118,6 @@
   "rating": "9.0"
  },
  {
-  "title": "No Man's Sky",
-  "year": 2016,
-  "genres": [
-   "adventure",
-   "sandbox"
-  ],
-  "platforms": [
-   "steam",
-   "psvr2"
-  ],
-  "app": "275850",
-  "desc": "Бесконечная вселенная с полноценным VR-режимом."
- },
- {
   "title": "Octopus Bar",
   "platforms": [
    "steam"
@@ -5117,19 +5144,6 @@
    "adventure"
   ],
   "rating": "9.0"
- },
- {
-  "title": "Phasmophobia",
-  "year": 2020,
-  "genres": [
-   "horror"
-  ],
-  "platforms": [
-   "steam",
-   "psvr2"
-  ],
-  "app": "739630",
-  "desc": "Кооперативный хоррор про охоту на привидений."
  },
  {
   "title": "Placid Plastic Duck VR",
@@ -5702,21 +5716,6 @@
   "rating": "8.9"
  },
  {
-  "title": "Job Simulator",
-  "year": 2016,
-  "genres": [
-   "sim",
-   "sandbox"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "448280",
-  "desc": "Юмористический симулятор «работы» в мире роботов."
- },
- {
   "title": "Kill It With Fire VR",
   "platforms": [
    "steam"
@@ -5756,6 +5755,20 @@
   "genres": [
    "action"
   ]
+ },
+ {
+  "title": "Pavlov VR",
+  "year": 2017,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "steam",
+   "psvr2"
+  ],
+  "app": "555160",
+  "desc": "Многопользовательский шутер с реалистичным оружием.",
+  "rating": "8.9"
  },
  {
   "title": "Perspectives: Paradise",
@@ -5950,21 +5963,6 @@
   "rating": "8.9"
  },
  {
-  "title": "SUPERHOT VR",
-  "year": 2016,
-  "genres": [
-   "shooter",
-   "puzzle"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "617830",
-  "desc": "Время движется только когда движешься ты."
- },
- {
   "title": "Tabletop Gods",
   "platforms": [
    "steam"
@@ -6128,20 +6126,6 @@
    "adventure"
   ],
   "rating": "8.8"
- },
- {
-  "title": "Blade & Sorcery",
-  "year": 2018,
-  "genres": [
-   "action",
-   "sandbox"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "desc": "Фэнтези-песочница с физикой ближнего боя и магией.",
-  "app": "629730"
  },
  {
   "title": "BlazeRush",
@@ -6913,19 +6897,6 @@
   "rating": "8.7"
  },
  {
-  "title": "BONEWORKS",
-  "year": 2019,
-  "genres": [
-   "action",
-   "sandbox"
-  ],
-  "platforms": [
-   "steam"
-  ],
-  "app": "823500",
-  "desc": "Предшественник Bonelab, задавший стандарты физики."
- },
- {
   "title": "CAPCOM GO! Apollo VR Planetarium",
   "platforms": [
    "steam"
@@ -6976,19 +6947,6 @@
   "genres": [
    "action"
   ]
- },
- {
-  "title": "Contractors",
-  "year": 2018,
-  "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "app": "963930",
-  "desc": "Военный шутер с поддержкой модов и карт."
  },
  {
   "title": "DEEMO -Reborn-",
@@ -7897,20 +7855,6 @@
   "rating": "8.6"
  },
  {
-  "title": "Gorilla Tag",
-  "year": 2021,
-  "genres": [
-   "social",
-   "action"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "app": "1533390",
-  "desc": "Бегайте и карабкайтесь, двигая только руками."
- },
- {
   "title": "GORN 2",
   "platforms": [
    "steam"
@@ -8259,6 +8203,22 @@
   "genres": [
    "sim"
   ],
+  "rating": "8.6"
+ },
+ {
+  "title": "The Walking Dead: Saints & Sinners",
+  "year": 2020,
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "916840",
+  "desc": "Выживание среди зомби в разрушенном Новом Орлеане.",
   "rating": "8.6"
  },
  {
@@ -8680,6 +8640,21 @@
   "rating": "8.5"
  },
  {
+  "title": "No Man's Sky",
+  "year": 2016,
+  "genres": [
+   "adventure",
+   "sandbox"
+  ],
+  "platforms": [
+   "steam",
+   "psvr2"
+  ],
+  "app": "275850",
+  "desc": "Бесконечная вселенная с полноценным VR-режимом.",
+  "rating": "8.5"
+ },
+ {
   "title": "OceanCraft",
   "platforms": [
    "steam"
@@ -8704,19 +8679,6 @@
    "action"
   ],
   "rating": "8.5"
- },
- {
-  "title": "Pavlov VR",
-  "year": 2017,
-  "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "steam",
-   "psvr2"
-  ],
-  "app": "555160",
-  "desc": "Многопользовательский шутер с реалистичным оружием."
  },
  {
   "title": "Pixel Ripped 1989",
@@ -8956,20 +8918,6 @@
   "rating": "8.5"
  },
  {
-  "title": "VRChat",
-  "year": 2017,
-  "genres": [
-   "social",
-   "sandbox"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "app": "438100",
-  "desc": "Общение, аватары и миры, созданные игроками."
- },
- {
   "title": "WHAT THE BAT?",
   "platforms": [
    "steam"
@@ -9038,21 +8986,6 @@
    "sport"
   ],
   "rating": "8.4"
- },
- {
-  "title": "Arizona Sunshine 2",
-  "year": 2023,
-  "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "psvr2",
-   "quest",
-   "steam"
-  ],
-  "desc": "Зомби-шутер с чёрным юмором и верным псом.",
-  "image": "https://media.rawg.io/media/screenshots/9c4/9c473c3f3c54bbd4504efeeaa1a3f887.jpg",
-  "app": "1540210"
  },
  {
   "title": "BoomBox",
@@ -9347,19 +9280,6 @@
    "action"
   ],
   "rating": "8.4"
- },
- {
-  "title": "Onward",
-  "year": 2016,
-  "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "app": "496240",
-  "desc": "Тактический милсим, где решает командная работа."
  },
  {
   "title": "Out of Ammo",
@@ -9941,6 +9861,20 @@
   "rating": "8.3"
  },
  {
+  "title": "Contractors",
+  "year": 2018,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "steam",
+   "quest"
+  ],
+  "app": "963930",
+  "desc": "Военный шутер с поддержкой модов и карт.",
+  "rating": "8.3"
+ },
+ {
   "title": "Cowbots and Aliens",
   "platforms": [
    "steam"
@@ -10108,19 +10042,6 @@
    "sim"
   ],
   "rating": "8.3"
- },
- {
-  "title": "Ghosts of Tabor",
-  "year": 2021,
-  "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "steam",
-   "quest"
-  ],
-  "app": "1957780",
-  "desc": "Хардкорный шутер с лутингом в духе Escape from Tarkov."
  },
  {
   "title": "Guardians Frontline",
@@ -10671,6 +10592,22 @@
   "rating": "8.2"
  },
  {
+  "title": "BONELAB",
+  "year": 2022,
+  "genres": [
+   "action",
+   "sandbox",
+   "shooter"
+  ],
+  "platforms": [
+   "quest",
+   "steam"
+  ],
+  "app": "1592190",
+  "desc": "Экспериментальная физическая песочница. Полная свобода действий, паркур, стрельба и невероятная поддержка пользовательских модов.",
+  "rating": "8.2"
+ },
+ {
   "title": "Boogeyman 2",
   "platforms": [
    "steam"
@@ -11031,19 +10968,6 @@
   "rating": "8.2"
  },
  {
-  "title": "Skyrim VR",
-  "year": 2018,
-  "genres": [
-   "rpg"
-  ],
-  "platforms": [
-   "steam",
-   "psvr2"
-  ],
-  "app": "611670",
-  "desc": "Легендарная RPG: драконы, подземелья и Довакин."
- },
- {
   "title": "Space Accident VR",
   "platforms": [
    "steam"
@@ -11069,6 +10993,22 @@
    "action",
    "sim"
   ],
+  "rating": "8.2"
+ },
+ {
+  "title": "SUPERHOT VR",
+  "year": 2016,
+  "genres": [
+   "shooter",
+   "puzzle"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "617830",
+  "desc": "Время движется только когда движешься ты.",
   "rating": "8.2"
  },
  {
@@ -11230,20 +11170,6 @@
    "adventure"
   ],
   "rating": "8.1"
- },
- {
-  "title": "Among Us VR",
-  "year": 2022,
-  "genres": [
-   "social"
-  ],
-  "platforms": [
-   "steam",
-   "quest",
-   "psvr2"
-  ],
-  "app": "1849900",
-  "desc": "Игра на дедукцию в 3D: найдите предателя."
  },
  {
   "title": "Audioshield",
@@ -12498,22 +12424,6 @@
    "adventure"
   ],
   "rating": "8.0"
- },
- {
-  "title": "Zenith: The Last City",
-  "year": 2021,
-  "genres": [
-   "rpg",
-   "action"
-  ],
-  "platforms": [
-   "psvr2",
-   "quest",
-   "steam"
-  ],
-  "desc": "Аниме-MMORPG для виртуальной реальности.",
-  "image": "https://media.rawg.io/media/screenshots/404/404cc0582ab8fb9ee354e50a49ebb4b5.jpg",
-  "app": "1402080"
  },
  {
   "title": "铁道物语：陆王（Railway Saga:Land King）",
@@ -15509,6 +15419,20 @@
   "rating": "7.5"
  },
  {
+  "title": "Skyrim VR",
+  "year": 2018,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "steam",
+   "psvr2"
+  ],
+  "app": "611670",
+  "desc": "Легендарная RPG: драконы, подземелья и Довакин.",
+  "rating": "7.5"
+ },
+ {
   "title": "Sniper Elite: Resistance",
   "platforms": [
    "steam"
@@ -15593,6 +15517,21 @@
   "rating": "7.5"
  },
  {
+  "title": "VRChat",
+  "year": 2017,
+  "genres": [
+   "social",
+   "sandbox"
+  ],
+  "platforms": [
+   "steam",
+   "quest"
+  ],
+  "app": "438100",
+  "desc": "Общение, аватары и миры, созданные игроками.",
+  "rating": "7.5"
+ },
+ {
   "title": "VRLegs",
   "platforms": [
    "steam"
@@ -15620,6 +15559,21 @@
    "action",
    "sport"
   ],
+  "rating": "7.4"
+ },
+ {
+  "title": "Among Us VR",
+  "year": 2022,
+  "genres": [
+   "social"
+  ],
+  "platforms": [
+   "steam",
+   "quest",
+   "psvr2"
+  ],
+  "app": "1849900",
+  "desc": "Игра на дедукцию в 3D: найдите предателя.",
   "rating": "7.4"
  },
  {
@@ -17159,6 +17113,20 @@
   "genres": [
    "strategy"
   ],
+  "rating": "7.1"
+ },
+ {
+  "title": "Ghosts of Tabor",
+  "year": 2021,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "steam",
+   "quest"
+  ],
+  "app": "1957780",
+  "desc": "Хардкорный шутер с лутингом в духе Escape from Tarkov.",
   "rating": "7.1"
  },
  {
@@ -18778,6 +18746,20 @@
    "action",
    "sim"
   ],
+  "rating": "6.8"
+ },
+ {
+  "title": "Onward",
+  "year": 2016,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "steam",
+   "quest"
+  ],
+  "app": "496240",
+  "desc": "Тактический милсим, где решает командная работа.",
   "rating": "6.8"
  },
  {
@@ -24879,6 +24861,20 @@
   "desc": "Sharpen your machete and grab your friends. Arizona Sunshine® brings its award-winning zombie apocalypse to explosive third-person action, featuring online and split-screen co-op, brutal combat, dark humor, and Buddy, your loyal zombie-chomping canine companion."
  },
  {
+  "title": "Arizona Sunshine 2",
+  "year": 2023,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "psvr2",
+   "quest",
+   "steam"
+  ],
+  "desc": "Зомби-шутер с чёрным юмором и верным псом.",
+  "image": "https://media.rawg.io/media/screenshots/9c4/9c473c3f3c54bbd4504efeeaa1a3f887.jpg"
+ },
+ {
   "title": "Armed Against the Undead",
   "platforms": [
    "steam"
@@ -24967,6 +24963,20 @@
    "adventure",
    "sim"
   ]
+ },
+ {
+  "title": "Asgard's Wrath 2",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "quest"
+  ],
+  "storeUrl": "https://www.meta.com/experiences/asgards-wrath-2/2603836099654226/",
+  "desc": "Масштабная ролевая игра в мире египетской мифологии с огромным открытым миром.",
+  "image": "https://media.rawg.io/media/screenshots/f62/f6279168547052c2907feb49559966eb.jpg"
  },
  {
   "title": "Ashen Arrows",
@@ -29465,6 +29475,21 @@
   "desc": "Simple drumkit simulator.",
   "year": 2017,
   "genres": [
+   "sim"
+  ]
+ },
+ {
+  "title": "Drunk or Dead 2",
+  "platforms": [
+   "steam"
+  ],
+  "app": "1966660",
+  "desc": "A campaign-based VR adventure for up to four players (co-op), with plenty of opportunities to hang out, shop, chat and drink between battles. Life goes on, even through the end of the world. Explore the town, meet the locals, then pick from one of four classes and gear up for another round",
+  "year": 2024,
+  "genres": [
+   "action",
+   "adventure",
+   "rpg",
    "sim"
   ]
  },
@@ -46973,6 +46998,21 @@
   "genres": [
    "adventure"
   ]
+ },
+ {
+  "title": "Zenith: The Last City",
+  "year": 2021,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "psvr2",
+   "quest",
+   "steam"
+  ],
+  "desc": "Аниме-MMORPG для виртуальной реальности.",
+  "image": "https://media.rawg.io/media/screenshots/404/404cc0582ab8fb9ee354e50a49ebb4b5.jpg"
  },
  {
   "title": "Zero Days VR",
