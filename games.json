@@ -7528,6 +7528,19 @@
   "rating": "8.7"
  },
  {
+  "title": "Sword With Sauce",
+  "platforms": [
+   "steam"
+  ],
+  "app": "581630",
+  "desc": "«Меч с Соусом» (Sword With Sauce) — это динамичная стелс-игра, где вы выбираете оружие, гаджеты и стиль игры для устранения врагов. Действуйте громко или оставайтесь незамеченным — выбор за вами.",
+  "year": 2018,
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7"
+ },
+ {
   "title": "The Break-In",
   "platforms": [
    "steam"
@@ -35195,6 +35208,19 @@
   "image": "https://media.rawg.io/media/games/6a7/6a78f0b8324d7622878e2943128af2a4.jpg"
  },
  {
+  "title": "Loop One: Done",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4530230",
+  "desc": "Record loops with drones and robots by hand, to build up an efficient automated factory in this physics-based VR game.",
+  "year": 2026,
+  "genres": [
+   "sim",
+   "strategy"
+  ]
+ },
+ {
   "title": "LooWarVR",
   "platforms": [
    "steam"
@@ -45035,6 +45061,18 @@
   ]
  },
  {
+  "title": "Virtual Reader (VR book reader)",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3917050",
+  "desc": "[Legacy Build]EPUB, CBZ, and PDF reader for VR",
+  "year": 2025,
+  "genres": [
+   "action"
+  ]
+ },
+ {
   "title": "Virtual Reality Experiment Framework",
   "platforms": [
    "steam"
@@ -46231,6 +46269,19 @@
   "year": 2022,
   "genres": [
    "sport"
+  ]
+ },
+ {
+  "title": "VRLF - Virtual Reality Lightgun Framework",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4711510",
+  "desc": "VRLF: Virtual Reality Lightgun Framework allows you to play classic and modern light gun games in VR. Supports accurate aiming, special reload mechanics, Steam Workshop modding and more!",
+  "year": 2026,
+  "genres": [
+   "action",
+   "sim"
   ]
  },
  {
