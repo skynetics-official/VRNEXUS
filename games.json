@@ -13372,6 +13372,20 @@
   "rating": "7.8"
  },
  {
+  "title": "Euphoria: Supreme Mechanics VR",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3749340",
+  "desc": "Решайте увлекательные головоломки в загадочном научно-фантастическом комплексе, созданном для VR. Перемещайте кубы, направляйте лазеры, активируйте механизмы и раскрывайте тайны заброшенной лаборатории, взаимодействуя с окружающим миром собственными руками.",
+  "year": 2026,
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "7.8"
+ },
+ {
   "title": "EVERSPACE™",
   "platforms": [
    "steam"
@@ -32048,6 +32062,18 @@
   ]
  },
  {
+  "title": "Goofy Dungeon",
+  "platforms": [
+   "steam"
+  ],
+  "app": "1833080",
+  "desc": "Goofy Dungeon — это короткая и веселая игра-головоломка, созданная специально для VR. Исследуйте мир, взаимодействуйте с предметами и окружением, решайте загадки, выполняйте задания и получите свой трофей!",
+  "year": 2026,
+  "genres": [
+   "adventure"
+  ]
+ },
+ {
   "title": "Grappling Hook and Grappling Hook",
   "platforms": [
    "steam"
@@ -32571,6 +32597,18 @@
   "genres": [
    "action",
    "adventure"
+  ]
+ },
+ {
+  "title": "Helenenkapelle VR",
+  "platforms": [
+   "steam"
+  ],
+  "app": "2840730",
+  "desc": "Eine historische Reise durch die Zeit, von der Blühtezeit der Kapelle bis zum Ende als Ruine.",
+  "year": 2024,
+  "genres": [
+   "sim"
   ]
  },
  {
@@ -34257,6 +34295,18 @@
   "genres": [
    "racing",
    "sport"
+  ]
+ },
+ {
+  "title": "Kebab Simulator VR",
+  "platforms": [
+   "steam"
+  ],
+  "app": "2908280",
+  "desc": "Get ready for a whirlwind of culinary chaos in Kebab Simulator VR! The first, best and only VR Kebab Simulator of the world! Serve up German fast food favorites like doner kebabs, burgers, and fries. It's a short-lived, single-player rush of frantic fun that'll leave you hungry for more!",
+  "year": 2025,
+  "genres": [
+   "sim"
   ]
  },
  {
@@ -41561,6 +41611,18 @@
   "genres": [
    "action",
    "strategy"
+  ]
+ },
+ {
+  "title": "Spymaster",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4391420",
+  "desc": "Become the Spymaster: command three unique agents through time-critical missions. Harness the C.A.S.S.E.T.T.E, a top-secret device, to record, rewind, and synchronize their moves in an innovative spy game blending action, infiltration, and self-coop.",
+  "year": 2026,
+  "genres": [
+   "action"
   ]
  },
  {
