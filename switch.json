@@ -1,0 +1,248 @@
+[
+ {
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "year": 2017,
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "year": 2023,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Mario Kart 8 Deluxe",
+  "year": 2017,
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Animal Crossing: New Horizons",
+  "year": 2020,
+  "genres": [
+   "sim",
+   "social"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Smash Bros. Ultimate",
+  "year": 2018,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Splatoon 3",
+  "year": 2022,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Metroid Dread",
+  "year": 2021,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hades",
+  "year": 2020,
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Stardew Valley",
+  "year": 2017,
+  "genres": [
+   "sim",
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Celeste",
+  "year": 2018,
+  "genres": [
+   "action",
+   "puzzle"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hollow Knight",
+  "year": 2018,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Xenoblade Chronicles 3",
+  "year": 2022,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Fire Emblem: Three Houses",
+  "year": 2019,
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pokémon Legends: Arceus",
+  "year": 2022,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Luigi's Mansion 3",
+  "year": 2019,
+  "genres": [
+   "adventure",
+   "horror"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Kirby and the Forgotten Land",
+  "year": 2022,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Bros. Wonder",
+  "year": 2023,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pikmin 4",
+  "year": 2023,
+  "genres": [
+   "strategy",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dead Cells",
+  "year": 2018,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Splatoon 2",
+  "year": 2017,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ring Fit Adventure",
+  "year": 2019,
+  "genres": [
+   "sport",
+   "sim"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Nintendo Switch Sports",
+  "year": 2022,
+  "genres": [
+   "sport"
+  ],
+  "platforms": [
+   "switch"
+  ]
+ }
+]

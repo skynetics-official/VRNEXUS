@@ -1,0 +1,284 @@
+[
+ {
+  "title": "Elden Ring",
+  "year": 2022,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1245620"
+ },
+ {
+  "title": "Baldur's Gate 3",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1086940"
+ },
+ {
+  "title": "Cyberpunk 2077",
+  "year": 2020,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1091500"
+ },
+ {
+  "title": "The Witcher 3: Wild Hunt",
+  "year": 2015,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "292030"
+ },
+ {
+  "title": "Hades",
+  "year": 2020,
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1145360"
+ },
+ {
+  "title": "Stardew Valley",
+  "year": 2016,
+  "genres": [
+   "sim",
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "413150"
+ },
+ {
+  "title": "Portal 2",
+  "year": 2011,
+  "genres": [
+   "puzzle",
+   "adventure"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "620"
+ },
+ {
+  "title": "Half-Life 2",
+  "year": 2004,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "220"
+ },
+ {
+  "title": "Counter-Strike 2",
+  "year": 2023,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "730"
+ },
+ {
+  "title": "Dota 2",
+  "year": 2013,
+  "genres": [
+   "strategy",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "570"
+ },
+ {
+  "title": "Terraria",
+  "year": 2011,
+  "genres": [
+   "sandbox",
+   "adventure"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "105600"
+ },
+ {
+  "title": "Hollow Knight",
+  "year": 2017,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "367520"
+ },
+ {
+  "title": "Disco Elysium",
+  "year": 2019,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "632470"
+ },
+ {
+  "title": "Red Dead Redemption 2",
+  "year": 2019,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1174180"
+ },
+ {
+  "title": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "814380"
+ },
+ {
+  "title": "Factorio",
+  "year": 2020,
+  "genres": [
+   "sim",
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "427520"
+ },
+ {
+  "title": "Celeste",
+  "year": 2018,
+  "genres": [
+   "action",
+   "puzzle"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "504230"
+ },
+ {
+  "title": "Cuphead",
+  "year": 2017,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "268910"
+ },
+ {
+  "title": "Slay the Spire",
+  "year": 2019,
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "646570"
+ },
+ {
+  "title": "DOOM Eternal",
+  "year": 2020,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "782330"
+ },
+ {
+  "title": "Resident Evil 4",
+  "year": 2023,
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "2050650"
+ },
+ {
+  "title": "HELLDIVERS 2",
+  "year": 2024,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "553850"
+ },
+ {
+  "title": "Sid Meier's Civilization VI",
+  "year": 2016,
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "289070"
+ },
+ {
+  "title": "Forza Horizon 5",
+  "year": 2021,
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "pc"
+  ],
+  "app": "1551360"
+ }
+]

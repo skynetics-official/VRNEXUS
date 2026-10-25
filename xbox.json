@@ -1,0 +1,273 @@
+[
+ {
+  "title": "Halo Infinite",
+  "year": 2021,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1240440"
+ },
+ {
+  "title": "Forza Horizon 5",
+  "year": 2021,
+  "genres": [
+   "racing"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1551360"
+ },
+ {
+  "title": "Starfield",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1716740"
+ },
+ {
+  "title": "Gears 5",
+  "year": 2019,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1097840"
+ },
+ {
+  "title": "Microsoft Flight Simulator",
+  "year": 2020,
+  "genres": [
+   "sim"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1250410"
+ },
+ {
+  "title": "Sea of Thieves",
+  "year": 2018,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1172620"
+ },
+ {
+  "title": "Hi-Fi Rush",
+  "year": 2023,
+  "genres": [
+   "action",
+   "rhythm"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1817230"
+ },
+ {
+  "title": "Ori and the Will of the Wisps",
+  "year": 2020,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Grounded",
+  "year": 2020,
+  "genres": [
+   "sim",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "962130"
+ },
+ {
+  "title": "Age of Empires IV",
+  "year": 2021,
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1466860"
+ },
+ {
+  "title": "Forza Motorsport",
+  "year": 2023,
+  "genres": [
+   "racing",
+   "sim"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Halo: The Master Chief Collection",
+  "year": 2014,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "976730"
+ },
+ {
+  "title": "Minecraft",
+  "year": 2011,
+  "genres": [
+   "sandbox",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Elden Ring",
+  "year": 2022,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1245620"
+ },
+ {
+  "title": "Baldur's Gate 3",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "strategy"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1086940"
+ },
+ {
+  "title": "Cyberpunk 2077",
+  "year": 2020,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1091500"
+ },
+ {
+  "title": "Red Dead Redemption 2",
+  "year": 2018,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "1174180"
+ },
+ {
+  "title": "The Witcher 3: Wild Hunt",
+  "year": 2015,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ],
+  "app": "292030"
+ },
+ {
+  "title": "Hades",
+  "year": 2020,
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Gears Tactics",
+  "year": 2020,
+  "genres": [
+   "strategy"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Halo 5: Guardians",
+  "year": 2015,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Fable Anniversary",
+  "year": 2014,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Hellblade II",
+  "year": 2024,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "Diablo IV",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "xbox"
+  ]
+ }
+]
