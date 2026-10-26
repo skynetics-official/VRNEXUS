@@ -1,11 +1,456 @@
 [
  {
-  "title": "Astro Bot",
+  "title": "The Witcher 3 Wild Hunt - Complete Edition",
+  "image": "https://media.rawg.io/media/games/52b/52be96c19be0d79eeb8664e4ca2aabd5.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "9.6",
+  "year": 2016,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Persona 5 Royal",
+  "year": 2020,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
+  "rating": "9.5"
+ },
+ {
+  "title": "Cyberpunk 2077: Phantom Liberty",
+  "image": "https://media.rawg.io/media/games/062/06285b425e61623530c5430f20e5d222.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.4",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Binding of Isaac: Repentance",
+  "image": "https://media.rawg.io/media/screenshots/f76/f76b46caccc642a46fa7e9ef7406b38b.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "9.4",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Disco Elysium: Final Cut",
+  "image": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "9.3",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Last of Us Part I",
+  "image": "https://media.rawg.io/media/games/71d/71df9e759b2246f9769126c98ac997fc.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "9.3",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Witcher 3: Wild Hunt",
+  "image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "9.3",
+  "year": 2015,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Beyond Good & Evil - 20th Anniversary Edition",
+  "image": "https://media.rawg.io/media/games/9f5/9f537017b13d32459fa129185648a858.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.2",
   "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ghost of Tsushima Director's Cut",
+  "image": "https://media.rawg.io/media/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "9.2",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mass Effect: Legendary Edition",
+  "image": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "9.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Quake II: Enhanced Edition",
+  "image": "https://media.rawg.io/media/screenshots/df8/df8f7f1b8ddf5f4021cda1254d82ab29.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil 4",
+  "year": 2023,
+  "genres": [
+   "horror",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "2050650",
+  "image": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+  "rating": "9.1"
+ },
+ {
+  "title": "Trails in the Sky 1st Chapter",
+  "image": "https://media.rawg.io/media/screenshots/aae/aaee2d143052bfafe7cae5806587485d.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "9.1",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lake: Special Delivery",
+  "image": "https://media.rawg.io/media/games/a6c/a6cf4d2d67caf9382ea604f068e84804.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "9.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil 2",
+  "image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Last of Us Part II Remastered",
+  "image": "https://media.rawg.io/media/games/d09/d099b508a1cfb5bd2f2928b50e0784a5.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Uncharted 4: A Thief’s End",
+  "image": "https://media.rawg.io/media/games/709/709bf81f874ce5d25d625b37b014cb63.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2016,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "We Are OFK",
+  "image": "https://media.rawg.io/media/games/c27/c27cbe5c97850a22b35aad317e6de687.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "9.0",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Baldur's Gate III",
+  "image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.9",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Clair Obscur: Expedition 33",
+  "image": "https://media.rawg.io/media/games/466/4667f17fdee9ebbcea2049e54f8e2b96.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Elden Ring: Shadow of the Erdtree",
+  "image": "https://media.rawg.io/media/screenshots/0ba/0bae7160eedc1f7d85a8d2db70cf1ec9.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Grand Theft Auto V",
+  "image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2013,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "It Takes Two",
+  "year": 2021,
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+  "rating": "8.9"
+ },
+ {
+  "title": "Marvel's Spider-Man",
+  "image": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel's Spider-Man Remastered",
+  "image": "https://media.rawg.io/media/games/5f1/5f1399f755ed3a40b04a9195f4c06be5.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil 9: Requiem",
+  "image": "https://media.rawg.io/media/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Silent Hill 2",
+  "image": "https://media.rawg.io/media/games/09b/09b41c1a2c5761c5b1772a4ae238bb0e.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Uncharted: Legacy of Thieves Collection",
+  "image": "https://media.rawg.io/media/games/de6/de66bc4c72b45c3bb906c85d0628112d.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "007 First Light",
+  "image": "https://media.rawg.io/media/games/86f/86f2dc1b9671f25a13ff92e069b51786.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Demon's Souls (2020)",
+  "image": "https://media.rawg.io/media/games/cc4/cc4a56d9e4c2a230293e335000469453.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Dispatch",
+  "image": "https://media.rawg.io/media/games/2f6/2f6c45362818859574ac0e37edf3d3c4.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "strategy"
+  ],
+  "rating": "8.8",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Elden Ring",
+  "year": 2022,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "1245620",
+  "image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Ghost of Tsushima",
+  "year": 2020,
   "genres": [
    "action",
    "adventure"
   ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Ghost of Tsushima - Iki Island",
+  "image": "https://media.rawg.io/media/screenshots/087/087876d258c96caae4146b989b0a19dd.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Gnosia",
+  "image": "https://media.rawg.io/media/games/176/17665021d974544d98e8237e67f40771.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2021,
   "platforms": [
    "ps5"
   ]
@@ -19,15 +464,47 @@
   ],
   "platforms": [
    "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/1c3/1c305096502c475c00276c827f0fd697.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Hades",
+  "image": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2020,
+  "platforms": [
+   "ps5"
   ]
  },
  {
-  "title": "Marvel's Spider-Man 2",
-  "year": 2023,
+  "title": "Judgment (2019)",
+  "image": "https://media.rawg.io/media/games/cf9/cf9ab5aee88c6db2cc5cf31d30aef5b8.jpg",
   "genres": [
-   "action",
-   "adventure"
+   "adventure",
+   "action"
   ],
+  "rating": "8.8",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Poker Club",
+  "image": "https://media.rawg.io/media/screenshots/cd2/cd20354d3241b773ae1bdddd1781daf8.jpg",
+  "genres": [
+   "strategy",
+   "sim",
+   "sport"
+  ],
+  "rating": "8.8",
+  "year": 2020,
   "platforms": [
    "ps5"
   ]
@@ -41,6 +518,1497 @@
   ],
   "platforms": [
    "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/ccf/ccfd3fd488a8ed61145a3da96c080131.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Red Dead Redemption",
+  "image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2010,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil: Village",
+  "image": "https://media.rawg.io/media/games/6cc/6cc23249972a427f697a3d10eb57a820.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sly 2: Band of Thieves",
+  "image": "https://media.rawg.io/media/games/b5b/b5b1243abc5dbbc441dcde08409cf8c7.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2004,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Split Fiction",
+  "image": "https://media.rawg.io/media/games/02a/02ac22b3b90717dabaa535640c38534c.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Elder Scrolls V: Skyrim",
+  "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2011,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Last of Us Part II",
+  "image": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Rise of the Golden Idol",
+  "image": "https://media.rawg.io/media/screenshots/bc8/bc8e49daf53d39b599f5fdb012177569.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.8",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Unicorn Overlord",
+  "image": "https://media.rawg.io/media/screenshots/e4d/e4d2d9720f0962ca4f6a6dd02cef331e.jpeg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Alan Wake 2",
+  "year": 2023,
+  "genres": [
+   "horror",
+   "adventure"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Astro Bot",
+  "year": 2024,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/b19/b19cdd6be95ffffd63fdd2d1fbac057a.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Astro's Playroom",
+  "image": "https://media.rawg.io/media/games/bfe/bfe7780b7d4342540be2e5273d49e54c.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Bang-On Balls: Chronicles",
+  "image": "https://media.rawg.io/media/screenshots/2fb/2fbb710eed97b77dda5f63cf3d76418f.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Beat Saber",
+  "image": "https://media.rawg.io/media/screenshots/90f/90f61894908915eff8455e7b43d466a2.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Burnhouse Lane",
+  "image": "https://media.rawg.io/media/games/c28/c28f9a27ef017d2086fef7ed2ab984b3.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Chained Echoes",
+  "image": "https://media.rawg.io/media/games/54a/54a8908159b95eda884e91463529192b.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Dead Space",
+  "image": "https://media.rawg.io/media/games/ea6/ea6a1382b15d749e15fdfbf0aece7689.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Death Stranding 2: On The Beach",
+  "image": "https://media.rawg.io/media/games/b85/b85bc300d42588af66fb516b7563f74f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Deltarune (itch)",
+  "image": "https://media.rawg.io/media/games/7a9/7a907fb5e158c8dc34e783d9c22674c3.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Denshattack!",
+  "image": "https://media.rawg.io/media/games/4c8/4c87922955d0494dda7ce812a8ee4c6d.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Disco Elysium",
+  "image": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "DOOM Eternal",
+  "image": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Final Fantasy VII",
+  "image": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+  "image": "https://media.rawg.io/media/games/acf/acf26d699ac392c014656f7fb3224d3d.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "FINAL FANTASY XIV: Endwalker",
+  "image": "https://media.rawg.io/media/games/bf5/bf5ac217a9e10ff98301e8359a870dc1.jpg",
+  "genres": [
+   "social",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Hauntii",
+  "image": "https://media.rawg.io/media/screenshots/21c/21cb898a6eb030e8b930a6c55b803ebb.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Hollow Knight: Silksong",
+  "image": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Horizon Forbidden West - Burning Shores",
+  "image": "https://media.rawg.io/media/games/647/64747512270db10509f04880289d0135.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Inscryption",
+  "image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
+  "genres": [
+   "strategy",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Judgment",
+  "image": "https://media.rawg.io/media/games/338/33848ebb15683ea022c08f39f01b810f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Kingdom Come: Deliverance II",
+  "image": "https://media.rawg.io/media/games/d84/d842fec4ae7bbd782d330f678c980f7f.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Little Nightmares II",
+  "image": "https://media.rawg.io/media/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lost in Play",
+  "image": "https://media.rawg.io/media/games/465/465d819b711ed1251bdaed0759ef185e.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lost Judgment",
+  "image": "https://media.rawg.io/media/games/186/1864ee956f171b4c3d5791b82c15df2f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel's Spider-Man 2",
+  "year": 2023,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/7ae/7ae5a14cdb4ab222a134c15f4629e430.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Neon White",
+  "image": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Neva",
+  "image": "https://media.rawg.io/media/games/5eb/5eb783656623aa13d6fc65e470dd5dba.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Persona 3 Reload",
+  "image": "https://media.rawg.io/media/games/29a/29a78d7b6be61673c910d588bf188e2c.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pragmata",
+  "image": "https://media.rawg.io/media/games/9b2/9b20adbf00491d56ad6793654067f2fd.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil 4 - Separate Ways",
+  "image": "https://media.rawg.io/media/games/235/23507cdd4268752b10f4dfc9cba52e9c.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sally Face",
+  "image": "https://media.rawg.io/media/games/d73/d73ce3cdc34c76e2456929103fc239d5.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2016,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Slay the Princess",
+  "image": "https://media.rawg.io/media/games/1fa/1fa542171e580af49fabd094bd232659.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Last Clockwinder",
+  "image": "https://media.rawg.io/media/screenshots/840/84070ec840c2209ebbed054efd82eb13.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Midnight Walk",
+  "image": "https://media.rawg.io/media/games/9fe/9fe45a0666b9a866c43a3ad670da9d45.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Stanley Parable: Ultra Deluxe",
+  "image": "https://media.rawg.io/media/games/c4e/c4e3ad247e93d3a5dc40aa215a778a9c.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tomb Raider: Legacy of Atlantis",
+  "image": "https://media.rawg.io/media/games/c2b/c2b8a3ef89b3edd35c1804dc0d68d7bb.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2027,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Yakuza: Like a Dragon",
+  "image": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "13 Sentinels: Aegis Rim",
+  "image": "https://media.rawg.io/media/games/be8/be8896348e804287dfd44323bac7380e.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.6",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "A Plague Tale: Requiem",
+  "image": "https://media.rawg.io/media/games/cd0/cd074f3f6045297cda9ad077273c09b6.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ace Combat 5: The Unsung War",
+  "image": "https://media.rawg.io/media/games/b34/b34c2c6005f3c629462ea6d16ad7b3bc.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "8.6",
+  "year": 2004,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Balatro",
+  "image": "https://media.rawg.io/media/games/821/821a40bd0cc0ac7dfb3fe97a7878dc1f.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Black Myth: Wukong",
+  "year": 2024,
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "2358720",
+  "image": "https://media.rawg.io/media/games/779/77988e89f7862afeede524420aa251b0.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Bomb Rush Cyberfunk",
+  "image": "https://media.rawg.io/media/games/ca7/ca7ca88681ad87eccd12e2acc65a2f6d.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Control Resonant",
+  "image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Control Ultimate Edition",
+  "image": "https://media.rawg.io/media/games/a74/a7462cb98ad1ed06f646afd0a5a1454d.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Crow Country",
+  "image": "https://media.rawg.io/media/games/5d6/5d665730bdc7c100b7e2ef9c2ecc7002.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Crusader Kings III",
+  "image": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
+  "genres": [
+   "strategy",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Death Stranding Director's Cut",
+  "image": "https://media.rawg.io/media/games/b6f/b6fa0cde8a1204c7d6edc2ec3c753df9.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Doom: The Dark Ages",
+  "image": "https://media.rawg.io/media/games/018/01897340a06b9ed8e92ed1cc1b1eecb9.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Final Fantasy VII Rebirth",
+  "year": 2024,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/511/511995d5dfcf18965dbb354d2ba9e176.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Forza Horizon 5",
+  "image": "https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg",
+  "genres": [
+   "racing",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Hi-Fi Rush",
+  "image": "https://media.rawg.io/media/games/62f/62f71917e64e913f2a893e7373319c60.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Horizon Forbidden West Complete Edition",
+  "image": "https://media.rawg.io/media/games/ebd/ebda55ee4922cbbc1c15d41cf3845519.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+  "image": "https://media.rawg.io/media/games/0c1/0c10aa5a41d64c0bb6ca9fe30173488d.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel's Guardians of the Galaxy",
+  "image": "https://media.rawg.io/media/games/708/7080e6c87e0825cb02888bf3c44b3889.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monster Hunter Rise: Sunbreak",
+  "image": "https://media.rawg.io/media/games/b09/b09dca67cbd73300040728da3e30dc88.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Nine Sols",
+  "image": "https://media.rawg.io/media/games/cee/cee02d983e2e1e457caa562420f532fb.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Octopath Traveler 2",
+  "image": "https://media.rawg.io/media/games/2d1/2d1439e74ece0eae3f571211410646dc.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sonic X Shadow Generations",
+  "image": "https://media.rawg.io/media/screenshots/797/797fc5d525fd1ec461268f43aad06dfd.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Alters",
+  "image": "https://media.rawg.io/media/games/18f/18fba094d4ba0dda019131ea9b585446.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Talos Principle 2",
+  "image": "https://media.rawg.io/media/games/4e4/4e42fc297c028630262a4abcc7769576.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tony Hawk's Pro Skater 1 + 2",
+  "image": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg",
+  "genres": [
+   "action",
+   "sport"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Animal Well",
+  "image": "https://media.rawg.io/media/games/f0a/f0ae5322f985cda91e871adcfcb91f6f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Bramble: The Mountain King",
+  "image": "https://media.rawg.io/media/games/d1f/d1f058e4c29abbfbb2ce16c08f626e62.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Conway: Disappearance at Dahlia View",
+  "image": "https://media.rawg.io/media/screenshots/717/71780227513bde12e11deccd8b5ac0c4.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Cyberpunk 2077",
+  "year": 2020,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "1091500",
+  "image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Devil May Cry 5",
+  "image": "https://media.rawg.io/media/games/9fb/9fbf956a16249def7625ab5dc3d09515.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Dredge",
+  "image": "https://media.rawg.io/media/games/c2c/c2c9f1c026b6c1be5bc2160baf7224ea.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Guilty Gear -Strive",
+  "image": "https://media.rawg.io/media/games/dfe/dfe14d30ed6fccd9db4ae79d3be51d54.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "HELLDIVERS 2",
+  "year": 2024,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "553850",
+  "image": "https://media.rawg.io/media/screenshots/755/7552f856f88b0de1dee040121039b079.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Helldivers II",
+  "image": "https://media.rawg.io/media/games/cbb/cbb9480547e9770383e3af1ab9dd3be3.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Hitman 3",
+  "image": "https://media.rawg.io/media/games/126/126fbd5ceacddc6ad16fc96e50b1265b.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Horizon Zero Dawn Remastered",
+  "image": "https://media.rawg.io/media/screenshots/e9c/e9cfcfafdf44b339edf6a9a07b8faed9.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Indiana Jones and the Great Circle",
+  "image": "https://media.rawg.io/media/games/824/824c0f8d6a591ef5828d7546664fc87c.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Kid A Mnesia: Exhibition",
+  "image": "https://media.rawg.io/media/games/ccc/ccc677ad4cf5e29aee30093c5d228e5f.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lego Batman: Legacy of the Dark Knight",
+  "image": "https://media.rawg.io/media/games/69a/69a6a1097f82210dbf8583f8e0d09123.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lies of P: Overture",
+  "image": "https://media.rawg.io/media/screenshots/8b3/8b3000e4e5320957018b52cd7a6e960e.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Like a Dragon: Infinite Wealth",
+  "image": "https://media.rawg.io/media/games/f9d/f9d124268f23a61fa3aa71ecefb30cc4.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel's Spider-Man: Miles Morales",
+  "image": "https://media.rawg.io/media/games/048/048b46cdc66cbc7e235e1f359c2a77ec.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Metaphor: ReFantazio",
+  "image": "https://media.rawg.io/media/games/2cd/2cd2467a32aaaed0bdeb192c2831cfe0.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monster Hunter Stories 3: Twisted Reflection",
+  "image": "https://media.rawg.io/media/screenshots/880/880bec24bf308de14746c9966e09d719.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Moss: Book II",
+  "image": "https://media.rawg.io/media/games/0a7/0a747fd1909dfcd11c10c5a2a5541118.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pentiment",
+  "image": "https://media.rawg.io/media/games/f1d/f1d25c007b9b45c98b57ff9ebbca9692.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pistol Whip",
+  "image": "https://media.rawg.io/media/screenshots/619/6196b2342cec75dcd0dad9f835485a14.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "planet of lana 2 children of the leaf",
+  "image": "https://media.rawg.io/media/screenshots/b45/b45ae08f30f8e08024115f19a370dd17.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Quake",
+  "image": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 1996,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Reanimal",
+  "image": "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sea of Stars",
+  "image": "https://media.rawg.io/media/games/1de/1de8ff69ed31d7a47d4f7770f23f20b8.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sly 3: Honor Among Thieves",
+  "image": "https://media.rawg.io/media/games/051/051b2a4fd94069e786e4b4299f70f843.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2005,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Stellar Blade",
+  "year": 2024,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/fbd/fbdef5455da4c4033bed896e1540f6a1.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Subnautica",
+  "image": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sword of the Sea",
+  "image": "https://media.rawg.io/media/games/96b/96bb45a0f2d767dc62f44ae77f5a2387.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Syphon Filter 2",
+  "image": "https://media.rawg.io/media/games/ddb/ddbbb508187fb6b37a51d58e148ef90e.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2000,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tactics Ogre: Let Us Cling Together",
+  "image": "https://media.rawg.io/media/games/36e/36ec9e6536619df636dfa2f3c5be88a3.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.5",
+  "year": 1995,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Forgotten City",
+  "image": "https://media.rawg.io/media/games/6e9/6e9136f09bb9daaaed5a0e6d508028b4.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Uncharted: The Lost Legacy",
+  "image": "https://media.rawg.io/media/games/560/56056a71c74f751552c9baedebf8f317.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Viewfinder",
+  "image": "https://media.rawg.io/media/games/bee/beeefcd4af46510aec135d098d03bf72.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ys VIII: Lacrimosa of DANA",
+  "image": "https://media.rawg.io/media/games/d3c/d3c42a40030d2c80aa37824914026052.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Blasphemous II",
+  "image": "https://media.rawg.io/media/games/73b/73bcfec00beec38a3d3527db4f9b8c53.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Death's Door",
+  "image": "https://media.rawg.io/media/games/a3e/a3ea71c18e81d54ebaf982dadb9a8738.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Devil May Cry 5 Special Edition",
+  "image": "https://media.rawg.io/media/games/d22/d2275ec49a1897191625fb04367bb702.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Fear the Spotlight",
+  "image": "https://media.rawg.io/media/games/d1d/d1d593029b0b00098df11b0f7f1cb99a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "FINAL FANTASY XIV: A Realm Reborn",
+  "image": "https://media.rawg.io/media/screenshots/515/515e8cda2f9e3ea1ca2785e99c1a1893.jpg",
+  "genres": [
+   "social",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2013,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ghost of Yotei",
+  "image": "https://media.rawg.io/media/games/30b/30b195c2321d763f807366967ffad793.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Gran Turismo 7",
+  "year": 2022,
+  "genres": [
+   "racing",
+   "sim"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg",
+  "rating": "8.4"
+ },
+ {
+  "title": "Gris",
+  "image": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg",
+  "genres": [
+   "action",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "ps5"
   ]
  },
  {
@@ -49,6 +2017,2141 @@
   "genres": [
    "rpg",
    "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg",
+  "rating": "8.4"
+ },
+ {
+  "title": "I Was a Teenage Exocolonist",
+  "image": "https://media.rawg.io/media/games/6b3/6b3e333fd648be0c606a2cf6aca59acc.jpg",
+  "genres": [
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Immortality",
+  "image": "https://media.rawg.io/media/games/1e2/1e2b5d7cdeb5e048a981a3ed2355e83d.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "LocoRoco Midnight Carnival",
+  "image": "https://media.rawg.io/media/games/724/724998069f995ee7cc42cb3655a8782c.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2009,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mount & Blade II: Bannerlord",
+  "image": "https://media.rawg.io/media/games/0aa/0aa81c3f82acec65b44e854352522cd6.jpg",
+  "genres": [
+   "strategy",
+   "action",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mundaun",
+  "image": "https://media.rawg.io/media/games/84f/84f317d1609bb27d85e595eac20f0199.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Overcooked! All You Can Eat",
+  "image": "https://media.rawg.io/media/screenshots/2a6/2a61b0ed0bf014f9f6fbbc8294d08f39.jpg",
+  "genres": [
+   "action",
+   "strategy",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Röki",
+  "image": "https://media.rawg.io/media/games/8ea/8eafa15945b94ce0f4e90f5db6fda419.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Shadow Gambit: The Cursed Crew",
+  "image": "https://media.rawg.io/media/games/e63/e63debd47c79933a6814fbc88b1198c3.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Star Wars Jedi: Survivor",
+  "image": "https://media.rawg.io/media/games/3e4/3e43e29ae126ef951842393f5ff7f33a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Star Wars: Republic Commando",
+  "image": "https://media.rawg.io/media/games/b1d/b1de33eca64ad293702d9554f5ac5cd5.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2005,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Thank Goodness You're Here!",
+  "image": "https://media.rawg.io/media/games/e09/e09477c34646ca1967b0088ba65d20c0.jpg",
+  "genres": [
+   "adventure",
+   "puzzle",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Legend of Heroes: Trails of Cold Steel IV",
+  "image": "https://media.rawg.io/media/screenshots/207/207fa0efeaf7905cc93b98ca12bc9ea3.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tinykin",
+  "image": "https://media.rawg.io/media/games/2a3/2a35da986abc10082c27c3d230ccf1e1.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Until Then",
+  "image": "https://media.rawg.io/media/screenshots/59e/59ef0d956e5aabf5b43af2fc271a93b9.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "A Plague Tale: Innocence",
+  "image": "https://media.rawg.io/media/games/b4a/b4adf80c36e267b35acc3497ed2af19c.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Battle Brothers",
+  "image": "https://media.rawg.io/media/screenshots/299/2992286207c0b8da1b9fca2d78290b49.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2017,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Blue Prince",
+  "image": "https://media.rawg.io/media/games/258/258f88a911a4233d4f21c2f91dceb892.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.3",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Cairn",
+  "image": "https://media.rawg.io/media/games/e13/e1395f34907fdcc9da63e72e24d868f8.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.3",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Control",
+  "image": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Dead Cells: Return to Castlevania",
+  "image": "https://media.rawg.io/media/games/1c8/1c882e2ebb0331e0d5b77b49ac08b69a.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.3",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Disney Epic Mickey: Rebrushed",
+  "image": "https://media.rawg.io/media/screenshots/956/9562d5a4a9f9edd50c78e812a74c4faf.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Doom Eternal: The Ancient Gods - Part Two",
+  "image": "https://media.rawg.io/media/games/fc3/fc3aec69b074d533c43a658ca1e90b0f.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Fantasian",
+  "image": "https://media.rawg.io/media/games/4d0/4d0ff222702d3295a6ce4d7e0a4ef8c1.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Lies Of P",
+  "image": "https://media.rawg.io/media/games/458/45838becd01e929b6be8b88d655cebfc.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel Cosmic Invasion",
+  "image": "https://media.rawg.io/media/games/d38/d383be9a8e6b802295d9e6aeac901943.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Metro Exodus",
+  "image": "https://media.rawg.io/media/games/152/152e788b7504aa2753c86dae912fb34c.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monster Hunter Rise",
+  "image": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monster Hunter Wilds",
+  "image": "https://media.rawg.io/media/games/91b/91b4edd8fecf88b2b5ca0752321382ee.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "No More Heroes 3",
+  "image": "https://media.rawg.io/media/games/fce/fce0716b555c161ef1b286eecb7abc16.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pursuit Force",
+  "image": "https://media.rawg.io/media/games/dbf/dbf7edce77dc28b37881920d323a3b42.jpg",
+  "genres": [
+   "racing",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2005,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+  "image": "https://media.rawg.io/media/games/5a7/5a74c02d95b963ca2a9a8e40e53a2721.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Remnant II",
+  "image": "https://media.rawg.io/media/screenshots/57c/57c95db99124157a85962eb879733185.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Returnal",
+  "year": 2021,
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "image": "https://media.rawg.io/media/games/673/673f27be4c5dbf37ce3ed0ed5ddf9d8d.jpg",
+  "rating": "8.3"
+ },
+ {
+  "title": "Star Ocean: The Second Story R",
+  "image": "https://media.rawg.io/media/screenshots/69d/69dea22465ff508df9ac02e07e40d38f.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Star Wars Jedi: Fallen Order",
+  "image": "https://media.rawg.io/media/games/559/559bc0768f656ad0c63c54b80a82d680.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Stray",
+  "image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "puzzle"
+  ],
+  "rating": "8.3",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Teardown",
+  "image": "https://media.rawg.io/media/games/a48/a482c78e1d733b897e269b55933474cf.jpg",
+  "genres": [
+   "strategy",
+   "action",
+   "sim"
+  ],
+  "rating": "8.3",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Dark Eye: Memoria",
+  "image": "https://media.rawg.io/media/screenshots/50b/50b9b975f4e3b508ab96b263f978c6bf.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.3",
+  "year": 2013,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Legend of Heroes: Trails of Cold Steel III",
+  "image": "https://media.rawg.io/media/screenshots/76a/76aa13d770101bd8ce1d3fca4211c1c8.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.3",
+  "year": 2017,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Warhammer 40,000: Space Marine II",
+  "image": "https://media.rawg.io/media/games/950/950f4eae6dc907d7f534d5dcce454487.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.3",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Armored Core VI: Fires of Rubicon",
+  "image": "https://media.rawg.io/media/games/c97/c97aba78a97038867d4b32a81fe48567.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Battlefield 6",
+  "image": "https://media.rawg.io/media/games/dcc/dcc38d78ab1f1a90fdc4ba1bea3a73ff.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Clive Barker's Hellraiser: Revival",
+  "image": "https://media.rawg.io/media/games/816/8167f331942bc2cb8a6711938cd17f5c.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Cult of the Lamb",
+  "image": "https://media.rawg.io/media/games/ab8/ab8217a1fe2ced388a388722734e6d16.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Deep Rock Galactic",
+  "image": "https://media.rawg.io/media/games/c92/c9207a31f0eeb9904a840fc26eae6afb.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Diablo II: Resurrected",
+  "image": "https://media.rawg.io/media/games/3f2/3f207dcc7931598567a90bc779a95cf8.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Diablo III",
+  "image": "https://media.rawg.io/media/games/a27/a275556fab1a6acaded4cedad0f9dc80.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2012,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Doom Eternal: The Ancient Gods - Part One",
+  "image": "https://media.rawg.io/media/games/ce9/ce95a8eca174f32f58df28074c4ef7e7.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "FATAL FRAME II: Crimson Butterfly REMAKE",
+  "image": "https://media.rawg.io/media/screenshots/78d/78d5b7d94ade9903af80ba870d22cae9.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Final Fantasy VII Remake Episode INTERmission",
+  "image": "https://media.rawg.io/media/screenshots/ef8/ef88fef3b693c27e1150865a23a081d0.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Final Fantasy XVI",
+  "image": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Frostpunk 2",
+  "image": "https://media.rawg.io/media/games/a73/a732e6a5261699e1ba3a3c1c3926a7b7.jpg",
+  "genres": [
+   "strategy",
+   "sim"
+  ],
+  "rating": "8.2",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Iron Meat",
+  "image": "https://media.rawg.io/media/screenshots/4bd/4bdb29036b6e60c3bb103404eb853248.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resonance: A Plague Tale Legacy",
+  "image": "https://media.rawg.io/media/games/c55/c55cc53bdf3cc4ee6f0a39f3c8b1dca7.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sackboy: A Big Adventure",
+  "image": "https://media.rawg.io/media/games/2ec/2ec8d2b5d990b9407e20dc81d271300d.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.2",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Synth Riders",
+  "image": "https://media.rawg.io/media/screenshots/1af/1af606e2a8f72509574e68bc6d64a3ef.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+  "image": "https://media.rawg.io/media/games/aac/aac683272f862540a18625f02f5f3679.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+  "image": "https://media.rawg.io/media/games/59d/59de0e72a041f3ddf4b1fa7288dcb704.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Jackbox Party Pack 9",
+  "image": "https://media.rawg.io/media/screenshots/286/286a939d311b552e8f516b12518ec924.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The King of Fighters XV",
+  "image": "https://media.rawg.io/media/games/d93/d934b056174dae3f7dd8f46ba74eaf44.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "TOEM",
+  "image": "https://media.rawg.io/media/games/1e5/1e59099701f55d861ae26905164156fa.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.2",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tomb Raider: Definitive Edition",
+  "image": "https://media.rawg.io/media/games/08e/08e8d09cd5aae30959c4486649fda3e6.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2014,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Trine 5: A Clockwork Conspiracy",
+  "image": "https://media.rawg.io/media/games/d15/d15d9aabb5b8d0479f351ef530a266f3.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.2",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tunic",
+  "image": "https://media.rawg.io/media/games/2c1/2c1984e128ac48b89953ed4de4904a3b.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Windjammers 2",
+  "image": "https://media.rawg.io/media/games/445/4454ca9ba9b2e251ab2fa63354558b8a.jpg",
+  "genres": [
+   "sport"
+  ],
+  "rating": "8.2",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Afterimage",
+  "image": "https://media.rawg.io/media/screenshots/f18/f18cf0a917ba1c960348ed0548de1e56.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Black Book",
+  "image": "https://media.rawg.io/media/games/1d6/1d6f294a27ff1b90d4a4a79d42d3f7b2.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Doki Doki Literature Club Plus!",
+  "image": "https://media.rawg.io/media/games/111/111f88e51c27b02de1e5f79c64ee9894.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ender Lilies: Quietus of the Knights",
+  "image": "https://media.rawg.io/media/games/f6e/f6ebc5c1953b3733a6fcaa484ad72497.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Eriksholm: The Stolen Dream",
+  "image": "https://media.rawg.io/media/games/c14/c148c1e52dac195fd28158834360fb97.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "In Sound Mind",
+  "image": "https://media.rawg.io/media/games/368/368f7cbd6a2f8f3acfab929873e89d0c.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Like a Dragon: Ishin!",
+  "image": "https://media.rawg.io/media/games/472/4722e05c50b9ffe9b984dce11fce82c7.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mortal Kombat 11 Ultimate",
+  "image": "https://media.rawg.io/media/screenshots/837/837544531ee999e51a548ecc6fb29804.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Observer: System Redux",
+  "image": "https://media.rawg.io/media/games/9ac/9acdbcf11b7aa2c9d629ee38f8fa8c71.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.1",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Onimusha: Way Of The Sword",
+  "image": "https://media.rawg.io/media/games/48e/48ea2f7adb60615d658887899ffe4d1f.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.1",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Resident Evil 3",
+  "image": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Return to Monkey Island",
+  "image": "https://media.rawg.io/media/games/db8/db86188577f4b61dfd2a960e18f660a5.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.1",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "River City Girls 2",
+  "image": "https://media.rawg.io/media/games/939/939f73c1c57e883ea91667fb3993f762.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.1",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Shin Megami Tensei V: Vengeance",
+  "image": "https://media.rawg.io/media/games/1b6/1b6673b646af55f834938bedebee2a0f.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.1",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Sifu",
+  "image": "https://media.rawg.io/media/games/3a9/3a9ea2db24f879e61fe7b824f5888d2a.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Street Fighter 6",
+  "image": "https://media.rawg.io/media/games/ce2/ce2463db40cec363f360c29ddcc56884.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Syphon Filter",
+  "image": "https://media.rawg.io/media/games/063/063d8b138079b6b939d24bab0b23b92f.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 1999,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Artful Escape",
+  "image": "https://media.rawg.io/media/games/d3e/d3ee2d7653cf9d4640335ff7a471ab07.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Invincible",
+  "image": "https://media.rawg.io/media/games/a41/a41faac69727bc7766b3b78f0acfec2f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Pedestrian",
+  "image": "https://media.rawg.io/media/screenshots/789/789144172022eb539a9fe76e5ca61527.jpg",
+  "genres": [
+   "action",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.1",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "This Bed We Made",
+  "image": "https://media.rawg.io/media/screenshots/fe5/fe5b87d8e1859c6e1d9b99eb88f6ebfe.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.1",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Unpacking",
+  "image": "https://media.rawg.io/media/games/c11/c1118fbcfd846c631ecb7646f8efc780.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Until Dawn (Remake)",
+  "image": "https://media.rawg.io/media/games/d4a/d4adb09d67998e339551acb0e15c1e99.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.1",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Age of Wonders 4",
+  "image": "https://media.rawg.io/media/games/4a8/4a84700a81e3efe0959bc0ee26c07d08.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "AI Limit",
+  "image": "https://media.rawg.io/media/games/f58/f5867ea18f8444660cd2892d4b282d30.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Alan Wake 2: Night Springs",
+  "image": "https://media.rawg.io/media/screenshots/dda/ddaa2e885569e76243e924fc7b621b42.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Alan Wake Remastered",
+  "image": "https://media.rawg.io/media/games/685/685812b147f42b08e94391defa972898.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Commandos: Origins",
+  "image": "https://media.rawg.io/media/games/bc7/bc78dd0c78a8f45845468d5dfcf4a6d8.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.0",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Crypt Custodian",
+  "image": "https://media.rawg.io/media/screenshots/f31/f3135eded451ce9172367505ea1b91cc.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Fernbus Simulator",
+  "image": "https://media.rawg.io/media/screenshots/c3a/c3acb1063123dcc0ed29b8235946d593.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "8.0",
+  "year": 2016,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "God of War Ragnarok: Valhalla",
+  "image": "https://media.rawg.io/media/screenshots/1d3/1d37ed8c21e856d71c06874c17916981.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Granblue Fantasy Versus: Rising",
+  "image": "https://media.rawg.io/media/screenshots/615/6155ccaf29780cd1ff13e07d370d2aec.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Infernax",
+  "image": "https://media.rawg.io/media/games/38f/38fe875c8621c7f7e7d81209576c1362.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.0",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Jusant",
+  "image": "https://media.rawg.io/media/games/6fc/6fcd3a3192df9abeb281f6e936fc1b80.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Killer Frequency",
+  "image": "https://media.rawg.io/media/games/5b6/5b65fcbccf5d08dcd73b5638615b3774.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Live A Live Remaster",
+  "image": "https://media.rawg.io/media/games/123/123349b81dd0be70b8aa0889635061fe.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.0",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Marvel's Midnight Suns",
+  "image": "https://media.rawg.io/media/games/d47/d471344cc698b2dc660ab09880e1e884.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.0",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mixtape",
+  "image": "https://media.rawg.io/media/games/a57/a571fcbc2b2ef30fb3e13a4272ef3a93.jpeg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.0",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ninja Gaiden: Ragebound",
+  "image": "https://media.rawg.io/media/games/40c/40c911198ddaf503afa3a9674199b906.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.0",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Nioh 3",
+  "image": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Nocturnal",
+  "image": "https://media.rawg.io/media/screenshots/82c/82c5398c5e11b538f0bbec81e3221f1b.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg",
+   "strategy"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Placid Plastic Duck Simulator",
+  "image": "https://media.rawg.io/media/games/588/5885562ec08f573c98c9bd5ed60c6640.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "8.0",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Planet of Lana",
+  "image": "https://media.rawg.io/media/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "puzzle"
+  ],
+  "rating": "8.0",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Prince of Persia: The Lost Crown",
+  "image": "https://media.rawg.io/media/games/cca/ccaa933775fe1ffcebe40a01f52545db.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Season",
+  "image": "https://media.rawg.io/media/screenshots/5e7/5e79725057d19d1e95379e1154eb6fcc.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.0",
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Shadows of the Damned: Hella Remastered",
+  "image": "https://media.rawg.io/media/games/a52/a5256e9d7abba95b2bc7bd9da01a6de3.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Subnautica: Below Zero",
+  "image": "https://media.rawg.io/media/games/437/4377bf00ded8a2ba781aa74d8bff9220.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.0",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Blood Of Dawnwalker",
+  "image": "https://media.rawg.io/media/games/319/319d18680fd0233e0ff724f234c97d17.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.0",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Matrix Awakens",
+  "image": "https://media.rawg.io/media/games/ca6/ca6d2ad4c573828ac4bad3f3cd6cf6f5.jpg",
+  "genres": [
+   "shooter"
+  ],
+  "rating": "8.0",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Sinking City 2",
+  "image": "https://media.rawg.io/media/games/5d3/5d3bf8f5f7f769d2a85d1a9de159a645.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.0",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tiny Terry's Turbo Trip",
+  "image": "https://media.rawg.io/media/screenshots/f55/f5581a127e8f1eeb58727d0718bac8db.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.0",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Wobbly Life",
+  "image": "https://media.rawg.io/media/screenshots/825/8254ec6963847cf351a4b96499e94f92.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "sim"
+  ],
+  "rating": "8.0",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ape Escape",
+  "image": "https://media.rawg.io/media/games/eb7/eb752b66d0060b832e5037c743850ab7.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 1999,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Assassin's Creed Back Flag Resynced",
+  "image": "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Children of Silentown",
+  "image": "https://media.rawg.io/media/games/a15/a154fbb7432eddb43bf9e121602ed203.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Crash Bandicoot 4: It’s About Time",
+  "image": "https://media.rawg.io/media/games/54a/54a14917b3298bbaacdf9873c3af7229.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Crimson Desert",
+  "image": "https://media.rawg.io/media/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Dead Rising Deluxe Remaster",
+  "image": "https://media.rawg.io/media/screenshots/37b/37b5993a45d6114a3eb44d9705dd76e6.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Deathloop",
+  "image": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "DRAGON BALL: Sparking! ZERO",
+  "image": "https://media.rawg.io/media/screenshots/64f/64fdee7e7b863fbc22460cb8e38614b9.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ember Knights",
+  "image": "https://media.rawg.io/media/screenshots/be4/be46a96f0883819435330b6384f4a056.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Escape Academy",
+  "image": "https://media.rawg.io/media/games/046/046a0d88df42efb3a5c080af9ad91e65.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Indika",
+  "image": "https://media.rawg.io/media/games/adf/adf16f490ed67a7b01586b8ef37e827e.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Insurgency: Sandstorm",
+  "image": "https://media.rawg.io/media/games/0a5/0a56d96dd280a5d4141a097629d902e3.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Kena: Bridge of Spirits",
+  "image": "https://media.rawg.io/media/games/91d/91ddeef8d5ebee7f21faa89efa0f2201.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action",
+   "strategy"
+  ],
+  "rating": "7.9",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Life is Strange Remastered",
+  "image": "https://media.rawg.io/media/games/e3f/e3fc11718acfeac81c05cbcc394dae2f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "image": "https://media.rawg.io/media/games/23e/23e3803318123533db02a2fceb3d3e54.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Metal: Hellsinger",
+  "image": "https://media.rawg.io/media/games/34e/34eb79862b32835924d999d575e08202.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monster Boy and the Cursed Kingdom",
+  "image": "https://media.rawg.io/media/screenshots/3cd/3cd488dcccb38d73dc8d881e6c83701d.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Monument Valley: Panoramic Edition",
+  "image": "https://media.rawg.io/media/screenshots/16e/16ee56f19c22284d38e6b028496b7f24.jpg",
+  "genres": [
+   "strategy",
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Mortal Kombat 11",
+  "image": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2019,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "My Time at Sandrock",
+  "image": "https://media.rawg.io/media/games/b13/b1315418c35bd241dc592f4e271b7bec.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ninja Gaiden 4",
+  "image": "https://media.rawg.io/media/games/9e8/9e8752c9e8ee0b5030b2851558506ecb.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Nioh 2",
+  "image": "https://media.rawg.io/media/games/a35/a359074cde22a4b23c54db44a592dc41.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "No Rest for the Wicked",
+  "image": "https://media.rawg.io/media/games/209/209e902168fcde856bd22a1bda90013e.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2027,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Octopath Traveler",
+  "image": "https://media.rawg.io/media/games/e23/e2345c839b323a94b6811705fda5af73.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2018,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pathologic 3: Quarantine",
+  "image": "https://media.rawg.io/media/screenshots/1d8/1d87de282d54f55306acbb43f8595cc2.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Pavlov VR",
+  "image": "https://media.rawg.io/media/screenshots/ca3/ca3925d7004ae8dd6a1e897242152f32.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2017,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "PowerWash Simulator",
+  "image": "https://media.rawg.io/media/games/659/65959a07c4e6dc7a9034993bbb3ba232.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Puyo Puyo Tetris 2",
+  "image": "https://media.rawg.io/media/screenshots/5bd/5bda059430f96cf5098fdd29b88c500f.jpg",
+  "genres": [
+   "action",
+   "puzzle"
+  ],
+  "rating": "7.9",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Ravenswatch",
+  "image": "https://media.rawg.io/media/screenshots/ff9/ff9c7b0cab02818ba0f06e3ea1c2dcd1.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Road 96",
+  "image": "https://media.rawg.io/media/games/61e/61ec0844a59c04cb0b2d2545e464e026.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "RoboCop: Rogue City",
+  "image": "https://media.rawg.io/media/games/2ae/2ae4150474a27f90595c9092917ab2d3.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Senua's Saga: Hellblade II",
+  "image": "https://media.rawg.io/media/games/b5c/b5ced2e44396160e62ff8d70e3adda71.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Severed Steel",
+  "image": "https://media.rawg.io/media/games/6fe/6feb9d26e5581bb52d44b64d903158ad.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "SnowRunner",
+  "image": "https://media.rawg.io/media/games/d22/d22ea1bfb636fbf1a9c235cc304312a8.jpg",
+  "genres": [
+   "racing"
+  ],
+  "rating": "7.9",
+  "year": 2020,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Syberia: The World Before",
+  "image": "https://media.rawg.io/media/games/067/067df4bb30f618958ffc58ad8e3b0a38.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2022,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tainted Grail: The Fall of Avalon",
+  "image": "https://media.rawg.io/media/games/c73/c73cd3a8bc46ccd7d62621bc19766f01.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tekken 8",
+  "image": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Terminator 2D: No Fate",
+  "image": "https://media.rawg.io/media/games/458/45856718997a655e2c1c6c2dd8fe2f44.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.9",
+  "year": 2025,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Bookwalker: Thief of Tales",
+  "image": "https://media.rawg.io/media/games/4ae/4ae187d7ab7227c74f4da6f079cac8e3.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "7.9",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Buzz Lightyear of Star Command",
+  "image": "https://media.rawg.io/media/screenshots/7ea/7ea2768a0eba11a0a692fc473090ec5d.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "7.8",
+  "year": 2000,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Granblue Fantasy Relink",
+  "image": "https://media.rawg.io/media/screenshots/4fb/4fbcd56b0f2df1b35a38e694173fcb28.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "7.8",
+  "year": 2024,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Hogwarts Legacy",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "990080",
+  "image": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg",
+  "rating": "7.8"
+ },
+ {
+  "title": "Oxenfree II: Lost Signals",
+  "image": "https://media.rawg.io/media/games/55e/55e23d1452e7f7f0295c4fe2a4d298b5.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "7.8",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Tales of Arise",
+  "image": "https://media.rawg.io/media/games/5a9/5a9e785af72ae88026380f7987f23d90.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "7.8",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "The Last Spell",
+  "image": "https://media.rawg.io/media/games/cc6/cc6c768a71fed84682e326a8bbce3718.jpg",
+  "genres": [
+   "strategy",
+   "action",
+   "rpg"
+  ],
+  "rating": "7.8",
+  "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "White Shadows",
+  "image": "https://media.rawg.io/media/screenshots/2e9/2e9b816222b52a615e0c04993282b777.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "7.8",
+  "year": 2021,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Baldur's Gate 3",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "strategy"
+  ],
+  "platforms": [
+   "ps5"
+  ],
+  "app": "1086940"
+ },
+ {
+  "title": "Bloodborne",
+  "year": 2015,
+  "genres": [
+   "rpg",
+   "action"
+  ],
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Death Stranding",
+  "year": 2019,
+  "genres": [
+   "action",
+   "adventure"
   ],
   "platforms": [
    "ps5"
@@ -66,143 +4169,6 @@
   ]
  },
  {
-  "title": "Returnal",
-  "year": 2021,
-  "genres": [
-   "shooter",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Elden Ring",
-  "year": 2022,
-  "genres": [
-   "rpg",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "1245620"
- },
- {
-  "title": "Baldur's Gate 3",
-  "year": 2023,
-  "genres": [
-   "rpg",
-   "strategy"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "1086940"
- },
- {
-  "title": "Final Fantasy VII Rebirth",
-  "year": 2024,
-  "genres": [
-   "rpg"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Resident Evil 4",
-  "year": 2023,
-  "genres": [
-   "horror",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "2050650"
- },
- {
-  "title": "Cyberpunk 2077",
-  "year": 2020,
-  "genres": [
-   "rpg",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "1091500"
- },
- {
-  "title": "HELLDIVERS 2",
-  "year": 2024,
-  "genres": [
-   "shooter",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "553850"
- },
- {
-  "title": "Hogwarts Legacy",
-  "year": 2023,
-  "genres": [
-   "rpg",
-   "adventure"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "990080"
- },
- {
-  "title": "Gran Turismo 7",
-  "year": 2022,
-  "genres": [
-   "racing",
-   "sim"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Ghost of Tsushima",
-  "year": 2020,
-  "genres": [
-   "action",
-   "adventure"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Stellar Blade",
-  "year": 2024,
-  "genres": [
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Black Myth: Wukong",
-  "year": 2024,
-  "genres": [
-   "action",
-   "rpg"
-  ],
-  "platforms": [
-   "ps5"
-  ],
-  "app": "2358720"
- },
- {
   "title": "Sekiro: Shadows Die Twice",
   "year": 2019,
   "genres": [
@@ -212,59 +4178,5 @@
    "ps5"
   ],
   "app": "814380"
- },
- {
-  "title": "Death Stranding",
-  "year": 2019,
-  "genres": [
-   "action",
-   "adventure"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Alan Wake 2",
-  "year": 2023,
-  "genres": [
-   "horror",
-   "adventure"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "It Takes Two",
-  "year": 2021,
-  "genres": [
-   "adventure",
-   "puzzle"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Persona 5 Royal",
-  "year": 2020,
-  "genres": [
-   "rpg"
-  ],
-  "platforms": [
-   "ps5"
-  ]
- },
- {
-  "title": "Bloodborne",
-  "year": 2015,
-  "genres": [
-   "rpg",
-   "action"
-  ],
-  "platforms": [
-   "ps5"
-  ]
  }
 ]

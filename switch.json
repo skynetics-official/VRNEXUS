@@ -1,33 +1,482 @@
 [
  {
-  "title": "The Legend of Zelda: Breath of the Wild",
-  "year": 2017,
+  "title": "The Witcher 3 Wild Hunt - Complete Edition",
+  "image": "https://media.rawg.io/media/games/52b/52be96c19be0d79eeb8664e4ca2aabd5.jpg",
   "genres": [
    "adventure",
    "rpg"
   ],
+  "rating": "9.6",
+  "year": 2016,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "title": "Persona 5 Royal",
+  "image": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "9.5",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Binding of Isaac: Repentance",
+  "image": "https://media.rawg.io/media/screenshots/f76/f76b46caccc642a46fa7e9ef7406b38b.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "9.4",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Disco Elysium: Final Cut",
+  "image": "https://media.rawg.io/media/games/0af/0afe9e8ace196123d8c7cf22172cec63.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "9.3",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Witcher 3: Wild Hunt",
+  "image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "9.3",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Beyond Good & Evil - 20th Anniversary Edition",
+  "image": "https://media.rawg.io/media/games/9f5/9f537017b13d32459fa129185648a858.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.2",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Deltarune: Chapter 2",
+  "image": "https://media.rawg.io/media/screenshots/57a/57aa72ca0282e6de364522ba6a0a98f3.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "9.2",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Splatoon 2: Octo Expansion",
+  "image": "https://media.rawg.io/media/games/8a7/8a7e9776a4f72be09eff57c821391b96.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.2",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Virtua Racing",
+  "image": "https://media.rawg.io/media/games/fc5/fc5edbf656a6a2090bc8a34291a2319d.jpeg",
+  "genres": [
+   "racing"
+  ],
+  "rating": "9.2",
+  "year": 1992,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dungeons of Dreadrock",
+  "image": "https://media.rawg.io/media/screenshots/efa/efa54dd8d3e1a8efebfd7dcb4c77e0eb.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg",
+   "puzzle"
+  ],
+  "rating": "9.1",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "No Case Should Remain Unsolved",
+  "image": "https://media.rawg.io/media/screenshots/766/76669775675948b1eb3f3eb1c1dfc7dc.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "9.1",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Outer Wilds - Echoes of the Eye",
+  "image": "https://media.rawg.io/media/screenshots/51a/51aa7f938f4937a1a085abd1b407921f.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "9.1",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Phoenix Wright: Ace Attorney Trilogy",
+  "image": "https://media.rawg.io/media/games/3e5/3e55a40ff233aacf63f96ea80fcc7234.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "9.1",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Quake II: Enhanced Edition",
+  "image": "https://media.rawg.io/media/screenshots/df8/df8f7f1b8ddf5f4021cda1254d82ab29.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.1",
   "year": 2023,
-  "genres": [
-   "adventure",
-   "action"
-  ],
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Super Mario Odyssey",
-  "year": 2017,
+  "title": "Trails in the Sky 1st Chapter",
+  "image": "https://media.rawg.io/media/screenshots/aae/aaee2d143052bfafe7cae5806587485d.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "9.1",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "A Hat in Time - Nyakuza Metro",
+  "image": "https://media.rawg.io/media/games/a61/a612c3e94b446ab09c3bb893ce2f5f94.jpg",
   "genres": [
    "adventure",
    "action"
   ],
+  "rating": "9.0",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "BioShock: The Collection",
+  "image": "https://media.rawg.io/media/games/abd/abd7b98d0ebe13e7e8f2b3bb8300bc0b.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Cuphead: The Delicious Last Course",
+  "image": "https://media.rawg.io/media/games/01b/01b85423bbfb5f8bc6bcf29dc0cfd6d9.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dark Souls: Remastered",
+  "image": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "9.0",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Divinity: Original Sin 2 - Definitive Edition",
+  "image": "https://media.rawg.io/media/games/cd2/cd2a1a360839002bceadc5a8b3c7dbf7.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "9.0",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Kingdom Come: Deliverance - Royal Edition",
+  "image": "https://media.rawg.io/media/games/649/649f00ec100df572c942fc822465f9a5.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "9.0",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Persona 3 Portable",
+  "image": "https://media.rawg.io/media/games/68a/68a5aaddf51fa089fe1d2fcc9aa1b62b.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "rpg"
+  ],
+  "rating": "9.0",
+  "year": 2009,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pokémon Pokopia",
+  "image": "https://media.rawg.io/media/games/67a/67a161425e620772ba69c3caa8f48a95.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "9.0",
+  "year": 2026,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Portal",
+  "image": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+  "genres": [
+   "action",
+   "puzzle"
+  ],
+  "rating": "9.0",
+  "year": 2007,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Quiplash 2 Interlashional: The Say Anything Party Game!",
+  "image": "https://media.rawg.io/media/screenshots/9b9/9b9846370e68a79f612b2abc5b687394.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Resident Evil 2",
+  "image": "https://media.rawg.io/media/games/053/053fc543bf488349610f1ae2d0c1b51b.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Shovel Knight: Shovel of Hope",
+  "image": "https://media.rawg.io/media/screenshots/32e/32e2fca8b56687dd33ae966093012671.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Shovel Knight: Specter of Torment",
+  "image": "https://media.rawg.io/media/screenshots/74f/74fa557d473ce29a1891fb1ff7641d1e.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "9.0",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Talos Principle: Deluxe Edition",
+  "image": "https://media.rawg.io/media/screenshots/722/722825a36a85aa420f7415d58d489df4.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "9.0",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "We Are OFK",
+  "image": "https://media.rawg.io/media/games/c27/c27cbe5c97850a22b35aad317e6de687.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "9.0",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Welcome to Elk",
+  "image": "https://media.rawg.io/media/games/468/46847ca499987854fd3e26f80b386b8d.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "9.0",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Another Code: Recollection",
+  "image": "https://media.rawg.io/media/games/896/896854355c6516444323c9e085d562d7.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.9",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bug Princess",
+  "image": "https://media.rawg.io/media/screenshots/838/8381bc8f1738cb5431308bd33a2dcc81.jpeg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2011,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Donkey Kong Bananza",
+  "image": "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.9",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hatsune Miku: Project DIVA Mega Mix+",
+  "image": "https://media.rawg.io/media/screenshots/801/801b23ccc4ffac44e91a05990199e686.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hotline Miami Collection",
+  "image": "https://media.rawg.io/media/screenshots/dbd/dbd5e6cda6aaab59be768eaef58a8a2f.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "It Takes Two",
+  "image": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.9",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Later Alligator",
+  "image": "https://media.rawg.io/media/screenshots/cbb/cbbf47de4d06484370a5fb39a5c914f0.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.9",
+  "year": 2019,
   "platforms": [
    "switch"
   ]
@@ -40,46 +489,323 @@
   ],
   "platforms": [
    "switch"
-  ]
+  ],
+  "image": "https://media.rawg.io/media/games/6f8/6f846e941c78cfbabe53cd67e55ced83.jpg",
+  "rating": "8.9"
  },
  {
-  "title": "Animal Crossing: New Horizons",
-  "year": 2020,
+  "title": "Minecraft",
+  "image": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg",
   "genres": [
+   "action",
    "sim",
    "social"
   ],
+  "rating": "8.9",
+  "year": 2009,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Super Smash Bros. Ultimate",
-  "year": 2018,
+  "title": "Moorhuhn Kart 2",
+  "image": "https://media.rawg.io/media/screenshots/114/114d4652020d71424c3a88865a4591c2.jpg",
+  "genres": [
+   "racing",
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 2004,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Persian Nights: Sands of Wonders",
+  "image": "https://media.rawg.io/media/screenshots/b48/b48c31690abd186d9f1d983b9aa0a642.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.9",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Persona 4 Golden",
+  "image": "https://media.rawg.io/media/games/b2c/b2c9c6115114c8f7d461b5430e8a7d4a.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.9",
+  "year": 2012,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Binding of Isaac: Afterbirth+",
+  "image": "https://media.rawg.io/media/games/1e8/1e805a4c98c5461b627eb382cb0e2b9e.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.9",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Great Ace Attorney Chronicles",
+  "image": "https://media.rawg.io/media/games/74a/74a324529a14915adfc887d257f16f86.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.9",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "year": 2017,
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+  "rating": "8.9"
+ },
+ {
+  "title": "Ultimate Doom",
+  "image": "https://media.rawg.io/media/screenshots/601/601a7eb90b02a424090f9a67dbc316d3.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.9",
+  "year": 1995,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "007 First Light",
+  "image": "https://media.rawg.io/media/games/86f/86f2dc1b9671f25a13ff92e069b51786.jpg",
   "genres": [
    "action"
   ],
+  "rating": "8.8",
+  "year": 2026,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Splatoon 3",
-  "year": 2022,
+  "title": "A Space for the Unbound",
+  "image": "https://media.rawg.io/media/games/c18/c180a02a53ce8c8cf23f11f182184103.jpg",
   "genres": [
-   "shooter"
-  ],
-  "platforms": [
-   "switch"
-  ]
- },
- {
-  "title": "Metroid Dread",
-  "year": 2021,
-  "genres": [
-   "action",
    "adventure"
   ],
+  "rating": "8.8",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Assassin’s Creed The Ezio Collection",
+  "image": "https://media.rawg.io/media/games/efd/efd50d3cf0ebe96aa77b81e29ea3540f.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Baba Is You",
+  "image": "https://media.rawg.io/media/games/0bc/0bca854021e14ffa9005a85c4567d25c.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.8",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Batman: Arkham Asylum",
+  "image": "https://media.rawg.io/media/games/d56/d564ee964eb3c17892b3b35dd607f836.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2009,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Batman: Arkham City",
+  "image": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2011,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "BioShock Infinite",
+  "image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Deemo",
+  "image": "https://media.rawg.io/media/games/629/629428d89988667b3396930b7f1229e1.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Devil May Cry 3: Dante's Awakening Special Edition",
+  "image": "https://media.rawg.io/media/games/db4/db49a4d8759e7c0fb16d7b3ea35ea64d.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2006,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dispatch",
+  "image": "https://media.rawg.io/media/games/2f6/2f6c45362818859574ac0e37edf3d3c4.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "strategy"
+  ],
+  "rating": "8.8",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Donkey Kong Country Returns HD",
+  "image": "https://media.rawg.io/media/games/3f4/3f47e8c4e97f884f032b686021530478.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM",
+  "image": "https://media.rawg.io/media/games/47b/47b50d880be8453bf9cda6e5c007bc26.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 1993,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM (2016)",
+  "image": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM II",
+  "image": "https://media.rawg.io/media/games/38a/38af969459ad6e5de116ec8a4a84218c.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 1994,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Fire Emblem Warriors: Three Hopes",
+  "image": "https://media.rawg.io/media/games/073/073b560fa5ab283c03e4a9a698d001af.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Gates of Hell",
+  "image": "https://media.rawg.io/media/games/e40/e4036a98194944a20e7aef2c17b64b5c.jpg",
+  "genres": [
+   "strategy",
+   "action",
+   "sim"
+  ],
+  "rating": "8.8",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Gnosia",
+  "image": "https://media.rawg.io/media/games/176/17665021d974544d98e8237e67f40771.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2021,
   "platforms": [
    "switch"
   ]
@@ -93,6 +819,176 @@
   ],
   "platforms": [
    "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Hollow Knight",
+  "year": 2018,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Hotline Miami",
+  "image": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2012,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "INSIDE",
+  "image": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "puzzle"
+  ],
+  "rating": "8.8",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Katana ZERO",
+  "image": "https://media.rawg.io/media/games/d37/d37e110ddcc0bd52d99f0f647b737a0a.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ori and the Blind Forest: Definitive Edition",
+  "image": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ori and the Will of the Wisps",
+  "image": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pikmin 2",
+  "image": "https://media.rawg.io/media/screenshots/4ad/4ad9f6dedf9764d885d3e3071ebd963b.jpg",
+  "genres": [
+   "strategy",
+   "puzzle"
+  ],
+  "rating": "8.8",
+  "year": 2004,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Poker Club",
+  "image": "https://media.rawg.io/media/screenshots/cd2/cd20354d3241b773ae1bdddd1781daf8.jpg",
+  "genres": [
+   "strategy",
+   "sim",
+   "sport"
+  ],
+  "rating": "8.8",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Red Dead Redemption",
+  "image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2010,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Resident Evil (2002)",
+  "image": "https://media.rawg.io/media/games/d24/d24ceb45b267f4b69b5d51c36c9a46db.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2002,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Resident Evil: Village",
+  "image": "https://media.rawg.io/media/games/6cc/6cc23249972a427f697a3d10eb57a820.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sayonara Wild Hearts",
+  "image": "https://media.rawg.io/media/games/77c/77ca75b962f0ca9f7de6eb03814d6b5b.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.8",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Shovel Knight: King of Cards",
+  "image": "https://media.rawg.io/media/screenshots/c96/c96a73cc5e6ca7e99b0142f95a7d2b7f.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2018,
+  "platforms": [
+   "switch"
   ]
  },
  {
@@ -102,6 +998,133 @@
    "sim",
    "rpg"
   ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/267/267bd0dbc496f52692487d07d014c061.jpg",
+  "rating": "8.8"
+ },
+ {
+  "title": "The Elder Scrolls V: Skyrim",
+  "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2011,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Rise of the Golden Idol",
+  "image": "https://media.rawg.io/media/screenshots/bc8/bc8e49daf53d39b599f5fdb012177569.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.8",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Unicorn Overlord",
+  "image": "https://media.rawg.io/media/screenshots/e4d/e4d2d9720f0962ca4f6a6dd02cef331e.jpeg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.8",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "What Remains of Edith Finch",
+  "image": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.8",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "A Short Hike",
+  "image": "https://media.rawg.io/media/games/c38/c38deeb8f331a78c89e64ad71a1db361.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bang-On Balls: Chronicles",
+  "image": "https://media.rawg.io/media/screenshots/2fb/2fbb710eed97b77dda5f63cf3d76418f.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bayonetta 2",
+  "image": "https://media.rawg.io/media/games/3d7/3d7c8e749b18cfc898c80016594981fe.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Burnhouse Lane",
+  "image": "https://media.rawg.io/media/games/c28/c28f9a27ef017d2086fef7ed2ab984b3.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Castle Crashers Remastered",
+  "image": "https://media.rawg.io/media/screenshots/67c/67c1e4f77798d42078f78a3479539862.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2015,
   "platforms": [
    "switch"
   ]
@@ -115,25 +1138,159 @@
   ],
   "platforms": [
    "switch"
-  ]
+  ],
+  "image": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg",
+  "rating": "8.7"
  },
  {
-  "title": "Hollow Knight",
-  "year": 2018,
+  "title": "Chained Echoes",
+  "image": "https://media.rawg.io/media/games/54a/54a8908159b95eda884e91463529192b.jpg",
   "genres": [
-   "action",
-   "adventure"
+   "rpg"
   ],
+  "rating": "8.7",
+  "year": 2022,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Xenoblade Chronicles 3",
-  "year": 2022,
+  "title": "Cocoon",
+  "image": "https://media.rawg.io/media/games/153/153e8d78ac19e959214dadefb8c27310.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Cuphead",
+  "image": "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Deltarune (itch)",
+  "image": "https://media.rawg.io/media/games/7a9/7a907fb5e158c8dc34e783d9c22674c3.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Disco Elysium",
+  "image": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Divinity: Original Sin 2",
+  "image": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Donkey Kong Country: Tropical Freeze",
+  "image": "https://media.rawg.io/media/games/c31/c31655ab2640da333f5ca3f223d33a12.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM Eternal",
+  "image": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Factorio",
+  "image": "https://media.rawg.io/media/games/7e4/7e4e22b76da131e9690d5757555093c2.jpg",
+  "genres": [
+   "strategy",
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Final Fantasy IX",
+  "image": "https://media.rawg.io/media/games/826/82626e2d7ee7d96656fb9838c2ef7302.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2000,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Final Fantasy VII (1997)",
+  "image": "https://media.rawg.io/media/games/6c0/6c00ee85d1344f58c469e8e47fd8ae7c.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 1997,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "FINAL FANTASY X/X-2 HD Remaster",
+  "image": "https://media.rawg.io/media/games/a14/a14acef284eaa4854f83c99e80fc15d8.jpg",
   "genres": [
    "rpg"
   ],
+  "rating": "8.7",
+  "year": 2013,
   "platforms": [
    "switch"
   ]
@@ -147,37 +1304,508 @@
   ],
   "platforms": [
    "switch"
-  ]
+  ],
+  "image": "https://media.rawg.io/media/games/530/53081dbd5003f990fa5312404ac3d71a.jpg",
+  "rating": "8.7"
  },
  {
-  "title": "Pokémon Legends: Arceus",
-  "year": 2022,
+  "title": "Gorogoa",
+  "image": "https://media.rawg.io/media/games/3e7/3e70b112ae2f814b105552dfea7c16dd.jpg",
   "genres": [
-   "rpg",
-   "adventure"
+   "puzzle"
   ],
+  "rating": "8.7",
+  "year": 2017,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Luigi's Mansion 3",
-  "year": 2019,
+  "title": "Gothic",
+  "image": "https://media.rawg.io/media/games/e75/e75c54e5a9a2754bab181b2240472389.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2001,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hades II",
+  "image": "https://media.rawg.io/media/games/8fd/8fd2e8317849fd265ad8781c324d4ec2.jpg",
   "genres": [
    "adventure",
-   "horror"
+   "action",
+   "rpg"
   ],
+  "rating": "8.7",
+  "year": 2025,
   "platforms": [
    "switch"
   ]
  },
  {
-  "title": "Kirby and the Forgotten Land",
-  "year": 2022,
+  "title": "Hauntii",
+  "image": "https://media.rawg.io/media/screenshots/21c/21cb898a6eb030e8b930a6c55b803ebb.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hollow Knight: Silksong",
+  "image": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg",
   "genres": [
    "action",
    "adventure"
   ],
+  "rating": "8.7",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hypnospace Outlaw",
+  "image": "https://media.rawg.io/media/screenshots/112/112ebaa7f44e9b720d6a47a16af245d2.jpg",
+  "genres": [
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ib",
+  "image": "https://media.rawg.io/media/screenshots/02f/02f82d645e35a0f7f7e34fa843081b01.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2012,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Inscryption",
+  "image": "https://media.rawg.io/media/games/73e/73efc5c0ac6f354271dae610276f617c.jpg",
+  "genres": [
+   "strategy",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Katamari Damacy REROLL",
+  "image": "https://media.rawg.io/media/games/842/8420626eee4e070554b7c975fbd27883.jpg",
+  "genres": [
+   "action",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Little Nightmares II",
+  "image": "https://media.rawg.io/media/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Lost in Play",
+  "image": "https://media.rawg.io/media/games/465/465d819b711ed1251bdaed0759ef185e.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Metroid Dread",
+  "year": 2021,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/c26/c262f8b54b46edc72594c4a9bb8ee13e.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Metroid Prime Remastered",
+  "image": "https://media.rawg.io/media/games/f2f/f2f9f11997ee841550ba2b8ccf3c51e9.jpg",
+  "genres": [
+   "action",
+   "shooter",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Neon White",
+  "image": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Neva",
+  "image": "https://media.rawg.io/media/games/5eb/5eb783656623aa13d6fc65e470dd5dba.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "New Star Manager",
+  "image": "https://media.rawg.io/media/screenshots/0a5/0a55cb44c52fd38ea6b22acc56828083_BfjeW0B.jpg",
+  "genres": [
+   "sim",
+   "sport"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "NieR:Automata",
+  "image": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ninja Gaiden (2004)",
+  "image": "https://media.rawg.io/media/games/c1b/c1bd8978518fe8c079aa49605b46535d.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2004,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Oddmar",
+  "image": "https://media.rawg.io/media/games/efb/efb0287d27a16a425f079dc399619695.jpeg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Outer Wilds",
+  "image": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "PICROSS S2",
+  "image": "https://media.rawg.io/media/screenshots/3e6/3e630194113c05bcb91f7aa31395eccc.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Planescape: Torment: Enhanced Edition",
+  "image": "https://media.rawg.io/media/games/399/3990e15f219261780b30f20cdc62266b.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Resident Evil 7: Biohazard",
+  "image": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Resident Evil HD Remaster",
+  "image": "https://media.rawg.io/media/games/3cf/3cf4e76bfd5283331c83958c830a761c.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Return Of The Obra Dinn",
+  "image": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sally Face",
+  "image": "https://media.rawg.io/media/games/d73/d73ce3cdc34c76e2456929103fc239d5.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Shinsekai Into the Depths",
+  "image": "https://media.rawg.io/media/games/ef3/ef34ed20d28869ca020b66fa70cabbbb.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Signalis",
+  "image": "https://media.rawg.io/media/games/480/480295ba922318bb052d169174ec88aa.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Slay the Princess",
+  "image": "https://media.rawg.io/media/games/1fa/1fa542171e580af49fabd094bd232659.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Slay the Spire",
+  "image": "https://media.rawg.io/media/games/f52/f5206d55f918edf8ee07803101106fa6.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Splatoon 3",
+  "year": 2022,
+  "genres": [
+   "shooter"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/360/360ac0a839ab0f0d9a70b35d38264cb0.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Star Wars Jedi Knight: Jedi Academy",
+  "image": "https://media.rawg.io/media/games/7e8/7e8890a662539b1bdefcf57409aef765.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2003,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Star Wars: Knights of the Old Republic",
+  "image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2003,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Star Wars: Knights of the Old Republic II – The Sith Lords",
+  "image": "https://media.rawg.io/media/games/046/0464f4a36cd975a37c95b93b06058855.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2004,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sunset Riders",
+  "image": "https://media.rawg.io/media/screenshots/dc9/dc991555bf9bfab348633c4e5308f06e.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 1991,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario 3D World",
+  "image": "https://media.rawg.io/media/games/cb7/cb78e5b2ada0e38cafb14cd00cfafbd7.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario 3D World + Bowser’s Fury",
+  "image": "https://media.rawg.io/media/games/cd2/cd22f0dcf8f080086c60f77eed7a8a93.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario All-Stars (1993)",
+  "image": "https://media.rawg.io/media/screenshots/4a1/4a1b357e73d20695ec71461cab5a5073.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 1993,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Bros. 3",
+  "image": "https://media.rawg.io/media/games/8f8/8f848239e24815506ff20eab31c6d6a9.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 1988,
   "platforms": [
    "switch"
   ]
@@ -191,6 +1819,665 @@
   ],
   "platforms": [
    "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/1fd/1fd3f030bee73452d46a0678084a7ed9.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "Super Mario Galaxy",
+  "image": "https://media.rawg.io/media/games/936/936f0ffac0b3c9f5c8d185f610ed2631.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2007,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Galaxy 2",
+  "image": "https://media.rawg.io/media/games/578/578ff52303d0e2563e28a4149f1485c2.jpeg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2010,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Smash Bros. Ultimate",
+  "year": 2018,
+  "genres": [
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "The House in Fata Morgana",
+  "image": "https://media.rawg.io/media/screenshots/830/83021c213afdfe02312195a921bdae7d.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Heroes: Trails from Zero",
+  "image": "https://media.rawg.io/media/games/f0a/f0ac99c638c25a5975cd74919564bda5.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: A Link to the Past",
+  "image": "https://media.rawg.io/media/games/087/08727beb32c364d30e8b2a1aa8595f8e.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 1991,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Link's Awakening (2019)",
+  "image": "https://media.rawg.io/media/games/1bb/1bb38f1354db6596ccd6bdcb4a7f6cbc.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Majora's Mask",
+  "image": "https://media.rawg.io/media/games/b3c/b3c209cd49aae8a469a59b79b54dc599.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2000,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Ocarina of Time (1998)",
+  "image": "https://media.rawg.io/media/games/3a0/3a0c8e9ed3a711c542218831b893a0fa.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 1998,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Skyward Sword HD",
+  "image": "https://media.rawg.io/media/games/624/624ee5ea783877a9ad8ccf68b8d8300b.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "year": 2023,
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/556/55684bfd048706f4266d331d70050b37.jpg",
+  "rating": "8.7"
+ },
+ {
+  "title": "The Stanley Parable: Ultra Deluxe",
+  "image": "https://media.rawg.io/media/games/c4e/c4e3ad247e93d3a5dc40aa215a778a9c.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Walking Dead: Season 1",
+  "image": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.7",
+  "year": 2012,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "There Is No Game: Wrong Dimension",
+  "image": "https://media.rawg.io/media/games/c32/c3214fdd63f48b9ad2b5d87bfdec0885.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Undertale",
+  "image": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "image": "https://media.rawg.io/media/games/c57/c57c9f8ea28b148cf991ac49c1e920f4.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "8.7",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Valiant Hearts: The Great War",
+  "image": "https://media.rawg.io/media/games/39a/39a8aa7798b685f9625e857bc394259d.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.7",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Vectronom",
+  "image": "https://media.rawg.io/media/screenshots/44a/44af18aea26f02f53f6ec55544c69456.jpg",
+  "genres": [
+   "action",
+   "puzzle",
+   "strategy"
+  ],
+  "rating": "8.7",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+  "image": "https://media.rawg.io/media/screenshots/35b/35b514c99b084d6b14ceb37181113645.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.7",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "13 Sentinels: Aegis Rim",
+  "image": "https://media.rawg.io/media/games/be8/be8896348e804287dfd44323bac7380e.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.6",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "A Hat in Time",
+  "image": "https://media.rawg.io/media/games/594/5949baae74fe9e399adbce0c44e28783.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "A Plague Tale: Requiem",
+  "image": "https://media.rawg.io/media/games/cd0/cd074f3f6045297cda9ad077273c09b6.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Animal Crossing: New Horizons",
+  "year": 2020,
+  "genres": [
+   "sim",
+   "social"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Astalon: Tears of the Earth",
+  "image": "https://media.rawg.io/media/screenshots/f42/f429bdc1f051149e11bde4f3a9fc435a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Atelier Escha & Logy: Alchemists of the Dusk Sky DX",
+  "image": "https://media.rawg.io/media/games/827/827c8034334aadf1cc14c5aabc5745e4.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Balatro",
+  "image": "https://media.rawg.io/media/games/821/821a40bd0cc0ac7dfb3fe97a7878dc1f.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bayonetta",
+  "image": "https://media.rawg.io/media/games/bee/bee483efadcf9d7e657e52184316a34e.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2009,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bayonetta 3",
+  "image": "https://media.rawg.io/media/games/c30/c30ac50cb13096f5402250bf666a321c.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bomb Rush Cyberfunk",
+  "image": "https://media.rawg.io/media/games/ca7/ca7ca88681ad87eccd12e2acc65a2f6d.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Chants of Sennaar",
+  "image": "https://media.rawg.io/media/games/5e9/5e9ce1121cbc4f30cb54cec20820df04.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DRAGON QUEST XI: Echoes of an Elusive Age",
+  "image": "https://media.rawg.io/media/games/e04/e041cc430f6b6681477580d3bcddf29f.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DUSK",
+  "image": "https://media.rawg.io/media/games/613/6131ede941efcfbb0858e80b2f4ec6bc.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Firewatch",
+  "image": "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Flashback: The Quest for Identity",
+  "image": "https://media.rawg.io/media/games/855/8552687245f888ba388bc6ec0dcc3947.jpg",
+  "genres": [
+   "action",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.6",
+  "year": 1992,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ghost Trick : Detective Phantom (remastered)",
+  "image": "https://media.rawg.io/media/games/d00/d0088d5ffce4e167241b65eb18a28cb4.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Grimvalor",
+  "image": "https://media.rawg.io/media/screenshots/d71/d710c136ecb782ce86337e14f1459296_94jsgrK.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Guilty Gear",
+  "image": "https://media.rawg.io/media/screenshots/e18/e18b7a8bfdab3929f71164bec2098e41.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 1998,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hatsune Miku Project Diva Mega39's",
+  "image": "https://media.rawg.io/media/screenshots/c11/c11c6b3141162e40e4098bf4f1141194.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hotline Miami 2: Wrong Number",
+  "image": "https://media.rawg.io/media/games/003/0031c0067559d41df19cf98ad87e02aa.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "HUNTDOWN",
+  "image": "https://media.rawg.io/media/games/5cb/5cb897cd1000906d2467ea4d0bdf1af4.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Into the Breach",
+  "image": "https://media.rawg.io/media/games/800/800d07ca648a9778a8230f40088e0866.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Mario Kart Live: Home Circuit",
+  "image": "https://media.rawg.io/media/screenshots/782/78231982eca855f97b8418fc1f7e6f3f.jpg",
+  "genres": [
+   "racing"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Marvel's Guardians of the Galaxy",
+  "image": "https://media.rawg.io/media/games/708/7080e6c87e0825cb02888bf3c44b3889.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Monster Hunter Generations Ultimate",
+  "image": "https://media.rawg.io/media/screenshots/456/456097665cd1c8f0b1d297b333c15479.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Monster Hunter Rise: Sunbreak",
+  "image": "https://media.rawg.io/media/games/b09/b09dca67cbd73300040728da3e30dc88.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Mutant Blobs Attack",
+  "image": "https://media.rawg.io/media/screenshots/0f5/0f5724ed17a7c1e31d6c444194fa685c.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Nine Sols",
+  "image": "https://media.rawg.io/media/games/cee/cee02d983e2e1e457caa562420f532fb.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Octopath Traveler 2",
+  "image": "https://media.rawg.io/media/games/2d1/2d1439e74ece0eae3f571211410646dc.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.6",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "OMORI",
+  "image": "https://media.rawg.io/media/games/2cb/2cb0d8e4cb57e7b03576619be68326c8.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Paper Mario: The Thousand-Year Door",
+  "image": "https://media.rawg.io/media/screenshots/bab/babed03dbdb81548a84e65437d2bc387.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2004,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Picross S4",
+  "image": "https://media.rawg.io/media/screenshots/002/002a427981c6f7a9ca8ed9e983e2cd0d.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pikmin",
+  "image": "https://media.rawg.io/media/screenshots/8d1/8d1c16a20bf0cd1e8d5e625b0b55ec09.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.6",
+  "year": 2001,
+  "platforms": [
+   "switch"
   ]
  },
  {
@@ -200,6 +2487,473 @@
    "strategy",
    "adventure"
   ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/274/2740b879e28df2ac3cdbc929a553863d.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Ring Fit Adventure",
+  "year": 2019,
+  "genres": [
+   "sport",
+   "sim"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/edf/edf0e3551971bcf668e27512eed199f8.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Shovel Knight",
+  "image": "https://media.rawg.io/media/games/0a5/0a5085a3fbe26be9cf9f96ff8c12746d.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Shovel Knight: Treasure Trove",
+  "image": "https://media.rawg.io/media/games/136/1369a40d031777815fbb5d7bc4dd2f86.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Snow Bros. Nick & Tom",
+  "image": "https://media.rawg.io/media/games/2d0/2d00b382922ed7a79d945761d40ff54b.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 1993,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sonic X Shadow Generations",
+  "image": "https://media.rawg.io/media/screenshots/797/797fc5d525fd1ec461268f43aad06dfd.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "STEINS;GATE: My Darling's Embrace",
+  "image": "https://media.rawg.io/media/games/de9/de969f890d1a173bc80021150b4f675c.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2011,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Bros.",
+  "image": "https://media.rawg.io/media/games/154/154fea9689109f26c49c6a2db6263ef9.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 1985,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tetris 99",
+  "image": "https://media.rawg.io/media/screenshots/d53/d539b82df1642578d33e57462536daf5.jpeg",
+  "genres": [
+   "social",
+   "puzzle"
+  ],
+  "rating": "8.6",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The 25th Ward: The Silver Case",
+  "image": "https://media.rawg.io/media/screenshots/5e1/5e107b3a265667b6b7bc865dc64be7cb.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Binding of Isaac: Rebirth",
+  "image": "https://media.rawg.io/media/games/926/926928beb8a9f9b31cf202965aa4cbbc.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Eyes of Ara",
+  "image": "https://media.rawg.io/media/screenshots/edb/edb1c2b8cfaee6fd08672ec04c34463c.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.6",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Jackbox Party Pack 7",
+  "image": "https://media.rawg.io/media/games/754/754682412d9f60949d15b04ff460dd20.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Messenger",
+  "image": "https://media.rawg.io/media/screenshots/16c/16c1f5e91a061e064f373406164d1e40.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "To the Moon",
+  "image": "https://media.rawg.io/media/games/fae/faebf3c8cbf30db3f46bfbecf6ada3d6.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2011,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tony Hawk's Pro Skater 1 + 2",
+  "image": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg",
+  "genres": [
+   "action",
+   "sport"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Wide Ocean Big Jacket",
+  "image": "https://media.rawg.io/media/screenshots/af5/af5da87393f6740d0039e219a20db98b.jpg",
+  "genres": [
+   "adventure",
+   "sim"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Xenoblade Chronicles 3",
+  "year": 2022,
+  "genres": [
+   "rpg"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/ae7/ae7cfc9a66232839112663899d2c8d8d.jpg",
+  "rating": "8.6"
+ },
+ {
+  "title": "Xenoblade Chronicles: Definitive Edition",
+  "image": "https://media.rawg.io/media/games/773/7739920af75d01f6a3b7e76a21d1633a.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.6",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Yuppie Psycho",
+  "image": "https://media.rawg.io/media/games/cd1/cd184ffdfb0c9700c371bea069c52b8e.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.6",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "1000xResist",
+  "image": "https://media.rawg.io/media/games/7c7/7c7fc7ac07c17fad71095cca1c78bc65.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "AI: The Somnium Files",
+  "image": "https://media.rawg.io/media/screenshots/e03/e035196b873383c7cb7d868f2a73a24c.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Animal Well",
+  "image": "https://media.rawg.io/media/games/f0a/f0ae5322f985cda91e871adcfcb91f6f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Astral Chain",
+  "image": "https://media.rawg.io/media/games/75b/75b91d05160c819fa6bbafe920548300.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Baldur's Gate II: Enhanced Edition",
+  "image": "https://media.rawg.io/media/screenshots/e0a/e0abaefbcc99ef995be57d857806f2d2.jpeg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ball x Pit",
+  "image": "https://media.rawg.io/media/games/798/798705b4f25e958e4ab8edf570e215f8.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2025,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Banjo-Kazooie",
+  "image": "https://media.rawg.io/media/screenshots/f0d/f0da831778e57b58636ccaf20a7cc6e6.jpg",
+  "genres": [
+   "action",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 1998,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Banner Saga Trilogy",
+  "image": "https://media.rawg.io/media/games/687/68704d4931b100550993fc858729396e.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg",
+   "strategy"
+  ],
+  "rating": "8.5",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Batman: Arkham Knight",
+  "image": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "BioShock Remastered",
+  "image": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+  "genres": [
+   "shooter"
+  ],
+  "rating": "8.5",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Bramble: The Mountain King",
+  "image": "https://media.rawg.io/media/games/d1f/d1f058e4c29abbfbb2ce16c08f626e62.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "CLANNAD",
+  "image": "https://media.rawg.io/media/games/9f1/9f1d4be0f0e3dd1d4cf37f884c809461.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Conway: Disappearance at Dahlia View",
+  "image": "https://media.rawg.io/media/screenshots/717/71780227513bde12e11deccd8b5ac0c4.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "CrossCode",
+  "image": "https://media.rawg.io/media/screenshots/cd6/cd6825467cb0f6a478a016b242d5d247.jpg",
+  "genres": [
+   "action",
+   "rpg",
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Cyberpunk 2077",
+  "image": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+  "genres": [
+   "shooter",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Danganronpa V3: Killing Harmony",
+  "image": "https://media.rawg.io/media/screenshots/ef2/ef2fded04fb3ed42a84bcd4cb5f7fb18.jpeg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dave the Diver",
+  "image": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.5",
+  "year": 2023,
   "platforms": [
    "switch"
   ]
@@ -212,6 +2966,415 @@
   ],
   "platforms": [
    "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Deadly Premonition Origins",
+  "image": "https://media.rawg.io/media/games/a71/a71f9451c41e5c98c572ad0adf7f8c54.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM II (25th anniversary)",
+  "image": "https://media.rawg.io/media/screenshots/06d/06d8db066881440a7cb5518fcdd8b92e.jpg",
+  "genres": [
+   "shooter"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DRAGON QUEST",
+  "image": "https://media.rawg.io/media/screenshots/c70/c7041e8781c1658f55db67f7276e3276.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
+  "image": "https://media.rawg.io/media/screenshots/7af/7afce909f5f8510015209451984b683e.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Dredge",
+  "image": "https://media.rawg.io/media/games/c2c/c2c9f1c026b6c1be5bc2160baf7224ea.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Final Fantasy XII: The Zodiac Age",
+  "image": "https://media.rawg.io/media/games/f35/f351f8f406f2ea12088b5e1b034f73b9.jpeg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Five Nights at Freddy’s: Help Wanted",
+  "image": "https://media.rawg.io/media/screenshots/89a/89afc622bafe66a47ae35468b70528de.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Forgotten Memories: Remastered Edition",
+  "image": "https://media.rawg.io/media/games/dac/dac553a6463e91299de69366bf6485f9.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "sim"
+  ],
+  "rating": "8.5",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "HAAK",
+  "image": "https://media.rawg.io/media/games/30e/30e38a6f4cae2afd0c1e0f43ac108d27.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hitman 3",
+  "image": "https://media.rawg.io/media/games/126/126fbd5ceacddc6ad16fc96e50b1265b.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Kirby and the Forgotten Land",
+  "year": 2022,
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/42a/42a71f0cbe23185f778c10462faa12d8.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Lego Batman: Legacy of the Dark Knight",
+  "image": "https://media.rawg.io/media/games/69a/69a6a1097f82210dbf8583f8e0d09123.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Luigi's Mansion 3",
+  "year": 2019,
+  "genres": [
+   "adventure",
+   "horror"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/3d9/3d972802b9ee793098b73ecf676b687e.jpeg",
+  "rating": "8.5"
+ },
+ {
+  "title": "Manifold Garden",
+  "image": "https://media.rawg.io/media/screenshots/c3f/c3fc81393a8c90d48e0b2f03f56caf7a.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Mario Maker 2",
+  "image": "https://media.rawg.io/media/screenshots/242/2421020817305307fc9b9c07c788c267.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Monster Hunter Stories 3: Twisted Reflection",
+  "image": "https://media.rawg.io/media/screenshots/880/880bec24bf308de14746c9966e09d719.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Murder House",
+  "image": "https://media.rawg.io/media/games/13a/13a940cb1eb6810bbfa78cc6106892ee.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "NieR:Automata Game of the YoRHa Edition",
+  "image": "https://media.rawg.io/media/games/219/2191c87e13c5fac11afa3e07dd991d7a.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Night in the Woods",
+  "image": "https://media.rawg.io/media/games/b0a/b0a370527fea0e824225269d4a8797db.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Nightshade (2016)",
+  "image": "https://media.rawg.io/media/screenshots/403/403a2b78b31376a642c32efcd874c8a8.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "No More Heroes 2: Desperate Struggle",
+  "image": "https://media.rawg.io/media/games/07a/07ac3210d7bb25ce4edae3fc30b02356.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2010,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+  "image": "https://media.rawg.io/media/games/72d/72d5532d7533c105b9900cca2e23f773.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pathfinder: Wrath of the Righteous",
+  "image": "https://media.rawg.io/media/games/a20/a203f3f5d667e04ce4a2c482c7be3a47.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pentiment",
+  "image": "https://media.rawg.io/media/games/f1d/f1d25c007b9b45c98b57ff9ebbca9692.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Pikmin 3",
+  "image": "https://media.rawg.io/media/screenshots/450/450788922a6ca76924fffd0f4daf363a.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Quake",
+  "image": "https://media.rawg.io/media/games/3a8/3a82d7f5c90ab082fe475e28d58bee8b.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 1996,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Reanimal",
+  "image": "https://media.rawg.io/media/games/299/299e031b1a8082298a4aeb5355d45571.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2026,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+  "image": "https://media.rawg.io/media/games/5ad/5adab016a307c2902a82b60d487fe287.jpg",
+  "genres": [
+   "shooter",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2009,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "image": "https://media.rawg.io/media/games/348/348640e78a7fcd4bb7dcad4fea014eeb.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2007,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sam & Max: Beyond Time and Space - Remastered",
+  "image": "https://media.rawg.io/media/games/ce9/ce93af2bc6139d79faab15305e97ec57.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Sea of Stars",
+  "image": "https://media.rawg.io/media/games/1de/1de8ff69ed31d7a47d4f7770f23f20b8.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Spirit Hunter: NG",
+  "image": "https://media.rawg.io/media/screenshots/6c8/6c8e152584ba10b0fb9b34ebd3e2a434.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
   ]
  },
  {
@@ -222,15 +3385,695 @@
   ],
   "platforms": [
    "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/24b/24b68f500fd138c3146d8856f0dd55b4.jpg",
+  "rating": "8.5"
+ },
+ {
+  "title": "STEINS;GATE 0",
+  "image": "https://media.rawg.io/media/screenshots/309/3098871f6c34615173edca785ebbf1d3.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2015,
+  "platforms": [
+   "switch"
   ]
  },
  {
-  "title": "Ring Fit Adventure",
-  "year": 2019,
+  "title": "Subnautica",
+  "image": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg",
   "genres": [
-   "sport",
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Party Jamboree",
+  "image": "https://media.rawg.io/media/games/66f/66fcdc18586ac8c0aa17b2c83fee558d.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tactics Ogre: Let Us Cling Together",
+  "image": "https://media.rawg.io/media/games/36e/36ec9e6536619df636dfa2f3c5be88a3.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.5",
+  "year": 1995,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Banner Saga 3",
+  "image": "https://media.rawg.io/media/games/d10/d1079ef92c414ca95e7b54ccec4d8a37.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Forgotten City",
+  "image": "https://media.rawg.io/media/games/6e9/6e9136f09bb9daaaed5a0e6d508028b4.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Zelda: Echoes of Wisdom",
+  "image": "https://media.rawg.io/media/games/ef0/ef095574ebf35dbe30cbb85f3798b4e5.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Liar Princess and the Blind Prince",
+  "image": "https://media.rawg.io/media/games/486/486d8fbe06185ff102dfca853a2191af.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Room",
+  "image": "https://media.rawg.io/media/games/dd6/dd66543e244d63598252c0116a98ba1c.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2012,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "This Strange Realm Of Mine",
+  "image": "https://media.rawg.io/media/screenshots/885/885f090265d7a62a446a28458bacf0fe.jpg",
+  "genres": [
+   "shooter",
+   "adventure",
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "TRIANGLE STRATEGY",
+  "image": "https://media.rawg.io/media/games/334/3340776fc9a78199838c7c1d8ec22bd5.jpg",
+  "genres": [
+   "strategy",
+   "adventure",
+   "rpg",
    "sim"
   ],
+  "rating": "8.5",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Viewfinder",
+  "image": "https://media.rawg.io/media/games/bee/beeefcd4af46510aec135d098d03bf72.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.5",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "WARRIORS OROCHI 4 Ultimate",
+  "image": "https://media.rawg.io/media/screenshots/eb0/eb09c0b1b5640aa28da30cd0a199afc1.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.5",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "What the Golf?",
+  "image": "https://media.rawg.io/media/games/56e/56eb7239aa2e1d4a7938d37e16c19352.jpg",
+  "genres": [
+   "sport"
+  ],
+  "rating": "8.5",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Windjammers",
+  "image": "https://media.rawg.io/media/screenshots/409/4095532e90534c0938c565f31e98367a.jpg",
+  "genres": [
+   "action",
+   "sport"
+  ],
+  "rating": "8.5",
+  "year": 1994,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "World of Goo 2",
+  "image": "https://media.rawg.io/media/screenshots/f7a/f7af9c3c70d7acf49430e525e5d3825f.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.5",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Xenoblade Chronicles 2",
+  "image": "https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Ys VIII: Lacrimosa of DANA",
+  "image": "https://media.rawg.io/media/games/d3c/d3c42a40030d2c80aa37824914026052.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.5",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "A Dark Room",
+  "image": "https://media.rawg.io/media/screenshots/0c4/0c43c70104bb8b7cbdd98c3c16da5180.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2013,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "ACA NEOGEO METAL SLUG X",
+  "image": "https://media.rawg.io/media/screenshots/0a1/0a185c9c745a9b19deaa3208837c76d2_jaM5ldj.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Alien: Isolation",
+  "image": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Blasphemous II",
+  "image": "https://media.rawg.io/media/games/73b/73bcfec00beec38a3d3527db4f9b8c53.jpg",
+  "genres": [
+   "action",
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Blaster Master Zero 2",
+  "image": "https://media.rawg.io/media/screenshots/1bd/1bd04e3173b0378ab11c5ab8712dbcbc.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Castlevania Advance Collection",
+  "image": "https://media.rawg.io/media/screenshots/5e6/5e6bbe68bd1f0a945c475b9ba20a3a5f.jpg",
+  "genres": [
+   "strategy",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "DOOM (25th anniversary)",
+  "image": "https://media.rawg.io/media/screenshots/521/521ddba8d10c2008f7ee436975ff01bd.jpg",
+  "genres": [
+   "shooter"
+  ],
+  "rating": "8.4",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Duck Game",
+  "image": "https://media.rawg.io/media/screenshots/f20/f20b14c39b5387488236ff2d1d40f863.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Fear the Spotlight",
+  "image": "https://media.rawg.io/media/games/d1d/d1d593029b0b00098df11b0f7f1cb99a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Hellblade: Senua's Sacrifice",
+  "image": "https://media.rawg.io/media/games/63f/63f0e68688cad279ed38cde931dbfcdb.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "I Was a Teenage Exocolonist",
+  "image": "https://media.rawg.io/media/games/6b3/6b3e333fd648be0c606a2cf6aca59acc.jpg",
+  "genres": [
+   "rpg",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Keep Talking and Nobody Explodes",
+  "image": "https://media.rawg.io/media/games/e88/e88ccd83bb2d69ad04d18b06c5e0df3d.jpg",
+  "genres": [
+   "sim",
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2015,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "La-Mulana 2",
+  "image": "https://media.rawg.io/media/screenshots/239/2399b3c5e2c6d4ef0030aea58697552a.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Mushroom Wars 2",
+  "image": "https://media.rawg.io/media/screenshots/9dd/9ddc817367fa39cc02cae304926f990b.jpeg",
+  "genres": [
+   "strategy",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "No More Heroes",
+  "image": "https://media.rawg.io/media/games/e48/e4887e872c0e3ab9055ba2ab82477c40.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2007,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Overcooked! All You Can Eat",
+  "image": "https://media.rawg.io/media/screenshots/2a6/2a61b0ed0bf014f9f6fbbc8294d08f39.jpg",
+  "genres": [
+   "action",
+   "strategy",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Röki",
+  "image": "https://media.rawg.io/media/games/8ea/8eafa15945b94ce0f4e90f5db6fda419.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Soul Knight",
+  "image": "https://media.rawg.io/media/screenshots/ad1/ad1daf11c6a04bdf0b183b333d06dd6e.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2017,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "South Park: The Stick of Truth",
+  "image": "https://media.rawg.io/media/games/8ca/8ca40b562a755d6a0e30d48e6c74b178.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2014,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Steven Universe: Unleash the Light",
+  "image": "https://media.rawg.io/media/screenshots/eb7/eb7648a213a4383aa6cdeeb64817d2dd.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Super Mario Maker 2",
+  "image": "https://media.rawg.io/media/games/25f/25f1b4a7b6ed811a5f6e34e43d6cc550.jpg",
+  "genres": [
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "SUPERHOT",
+  "image": "https://media.rawg.io/media/screenshots/ad4/ad445a12ee46543d4d117f3893041ebf.jpg",
+  "genres": [
+   "shooter",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tangle Tower",
+  "image": "https://media.rawg.io/media/screenshots/43c/43c02ccc2d395e3827619e25af166221.jpg",
+  "genres": [
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2019,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tetris Effect: Connected",
+  "image": "https://media.rawg.io/media/games/377/3770f2c7020bcb6cc2072f073f27fb4c.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Thank Goodness You're Here!",
+  "image": "https://media.rawg.io/media/games/e09/e09477c34646ca1967b0088ba65d20c0.jpg",
+  "genres": [
+   "adventure",
+   "puzzle",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2024,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Banner Saga 2",
+  "image": "https://media.rawg.io/media/games/3af/3af9976b83868a1042eac59531a1a986.jpg",
+  "genres": [
+   "strategy",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Cosmic Wheel Sisterhood",
+  "image": "https://media.rawg.io/media/games/188/18854188b152f4fe0eb61f650d41ef6b.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2023,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Jackbox Party Pack 3",
+  "image": "https://media.rawg.io/media/games/137/137544a823a3b16a226878a9e5506c0c.jpg",
+  "genres": [
+   "strategy"
+  ],
+  "rating": "8.4",
+  "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Legend of Heroes: Trails of Cold Steel IV",
+  "image": "https://media.rawg.io/media/screenshots/207/207fa0efeaf7905cc93b98ca12bc9ea3.jpg",
+  "genres": [
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Life and Suffering of Sir Brante",
+  "image": "https://media.rawg.io/media/games/b4e/b4ebda18f8336b70c308594d2b695415.jpg",
+  "genres": [
+   "adventure",
+   "rpg",
+   "strategy",
+   "sim"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Red Strings Club",
+  "image": "https://media.rawg.io/media/games/1d3/1d36765d65a9916aa519c93a8a60bd7c.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "The Witch's House MV",
+  "image": "https://media.rawg.io/media/screenshots/9d5/9d54f41a1221294f5f76b12630786815.jpg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Tinykin",
+  "image": "https://media.rawg.io/media/games/2a3/2a35da986abc10082c27c3d230ccf1e1.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "8.4",
+  "year": 2022,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Trials of Mana",
+  "image": "https://media.rawg.io/media/games/f6d/f6db473ae34dea40ae1b0bcfa4d70408.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 1995,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Unsighted",
+  "image": "https://media.rawg.io/media/games/25d/25d487c4f86a18b1bfca322148957634.jpg",
+  "genres": [
+   "adventure",
+   "action",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2021,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "West of Loathing",
+  "image": "https://media.rawg.io/media/games/d11/d116eb848dad9bc60d63d1b209f5d3c8.jpeg",
+  "genres": [
+   "adventure",
+   "rpg"
+  ],
+  "rating": "8.4",
+  "year": 2017,
   "platforms": [
    "switch"
   ]
@@ -243,6 +4086,21 @@
   ],
   "platforms": [
    "switch"
-  ]
+  ],
+  "image": "https://media.rawg.io/media/games/ea1/ea1a98c673cdd4c290aa29bc2e2fbd9b.jpg",
+  "rating": "8.0"
+ },
+ {
+  "title": "Pokémon Legends: Arceus",
+  "year": 2022,
+  "genres": [
+   "rpg",
+   "adventure"
+  ],
+  "platforms": [
+   "switch"
+  ],
+  "image": "https://media.rawg.io/media/games/80a/80a3e1060b49c02f901e781b263cd881.jpg",
+  "rating": "8.0"
  }
 ]

@@ -25072,6 +25072,18 @@
   ]
  },
  {
+  "title": "Astro Chef",
+  "platforms": [
+   "steam"
+  ],
+  "app": "1812230",
+  "desc": "Dive into Astro Chef, a VR culinary adventure like no other! Serve exotic dishes to unique alien customers and rebuild the restaurant's reputation. Master alien ingredients, tackle cosmic puzzles, and experience the thrill of VR cooking solo or in co-op mode.",
+  "year": 2024,
+  "genres": [
+   "sim"
+  ]
+ },
+ {
   "title": "Astro VR",
   "platforms": [
    "steam"
@@ -26880,6 +26892,18 @@
   ]
  },
  {
+  "title": "Celestrion",
+  "platforms": [
+   "steam"
+  ],
+  "app": "424100",
+  "desc": "Play inside your very own Orrery, a working heliocentric 3d model of our solar system. Learn the basic facts about each of the planets, and witness them and their moons up close in accurate orbital relation to each other.",
+  "year": 2015,
+  "genres": [
+   "sim"
+  ]
+ },
+ {
   "title": "Chained: A Victorian Nightmare",
   "platforms": [
    "steam"
@@ -28271,6 +28295,18 @@
   "genres": [
    "action",
    "adventure"
+  ]
+ },
+ {
+  "title": "Dark Ride",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4182210",
+  "desc": "Dark Ride is a cozy VR theme park you explore at your own speed, with nothing chasing you and nothing to fail.",
+  "year": 2026,
+  "genres": [
+   "sim"
   ]
  },
  {
@@ -34793,6 +34829,18 @@
   "app": "814700",
   "desc": "The Larkin Building build by Frank Lloyd Wright in 1904 is one of the most famous office building off all time. It has been demolished in 1954 and there where no color picture of the building till now. In this VR experience you can walk through the building and explore the spaces, furniture and atmosphere.",
   "year": 2018,
+  "genres": [
+   "sim"
+  ]
+ },
+ {
+  "title": "Laser Harp VR",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3789120",
+  "desc": "You too can be a stealth major You will be the organizer and make the live show a success!　Please note that the instrument to be handled is the “Laser Harp”.",
+  "year": 2026,
   "genres": [
    "sim"
   ]
@@ -42758,6 +42806,18 @@
   ]
  },
  {
+  "title": "The 31st Student",
+  "platforms": [
+   "steam"
+  ],
+  "app": "5269280",
+  "desc": "Тридцать имён. Тридцать одна парта. Исследуйте опустевшую японскую школу, раскройте противоречивые записи и столкнитесь с воспоминаниями, которые сами помогли стереть. Психологический хоррор-детектив от первого лица с тремя финалами, доступный на мониторе и в VR.",
+  "year": 2026,
+  "genres": [
+   "adventure"
+  ]
+ },
+ {
   "title": "The Amusement",
   "platforms": [
    "steam"
@@ -43639,6 +43699,19 @@
   "platforms": [
    "steam",
    "quest"
+  ]
+ },
+ {
+  "title": "The Thrill of the Fight 2",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4884540",
+  "desc": "Step through the ropes in VR's most authentic boxing experience. Climb the ranks in a full single-player Career Mode or fight against other players in real-time Online Multiplayer. Glove up, customize your fighter, and defend your title. You just have to ask... Who's next?",
+  "year": 2026,
+  "genres": [
+   "action",
+   "sport"
   ]
  },
  {
@@ -47550,6 +47623,18 @@
   "genres": [
    "adventure",
    "sim"
+  ]
+ },
+ {
+  "title": "附中學院79校慶",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4110050",
+  "desc": "\"HSNU Academy 79th Anniversary\" is a dark, narrative puzzle game set at HSNU. Explore the campus via chat to uncover secrets and reach multiple endings. This 1-hour experience unlocks Free Mode upon completion. Stay tuned for new games in future celebrations!",
+  "year": 2026,
+  "genres": [
+   "rpg"
   ]
  }
 ]
