@@ -1214,6 +1214,19 @@
   "rating": "8.2"
  },
  {
+  "title": "Crypt Custodian",
+  "platforms": [
+   "pc"
+  ],
+  "app": "2394650",
+  "desc": "Crypt Custodian — очаровательная метроидвания об уборке в загробной жизни. Главный герой — озорной кот Плутон, который умер и выяснил, что теперь будет уборщиком в загробной жизни... ВЕЧНО! Знакомьтесь с другими обреченными, сражайтесь с чудовищами и исследуйте масштабный мир.",
+  "year": 2024,
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.2"
+ },
+ {
   "title": "Duck Game",
   "platforms": [
    "pc"
@@ -2804,6 +2817,19 @@
   ]
  },
  {
+  "title": "Class of '09: The Re-Up",
+  "platforms": [
+   "pc"
+  ],
+  "app": "2318310",
+  "desc": "The REJECTION SIM returns! Explore a slice of chaotic life in late 2000's American high school as you assume the role of Nicole once again. A 100% fully voiced VN presenting as the most culturally accurate period piece in the history of gaming.",
+  "year": 2023,
+  "genres": [
+   "rpg",
+   "sim"
+  ]
+ },
+ {
   "title": "Cleo - a pirate's tale",
   "platforms": [
    "pc"
@@ -3050,6 +3076,18 @@
   ]
  },
  {
+  "title": "Deleted Wiki: Clean Up the Lost Files",
+  "platforms": [
+   "pc"
+  ],
+  "app": "5204830",
+  "desc": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
+  "year": 2026,
+  "genres": [
+   "action"
+  ]
+ },
+ {
   "title": "DELTARUNE",
   "platforms": [
    "pc"
@@ -3121,6 +3159,18 @@
   "year": 2024,
   "genres": [
    "sim"
+  ]
+ },
+ {
+  "title": "DISCOPUP",
+  "platforms": [
+   "pc"
+  ],
+  "app": "3380950",
+  "desc": "DISCOPUP is a mystery game about a seal who wants to sneak inside a dogs-only party. Explore the city and meet shady characters as your search for the perfect dog costume.",
+  "year": 2025,
+  "genres": [
+   "adventure"
   ]
  },
  {
@@ -4817,6 +4867,22 @@
   ]
  },
  {
+  "title": "Nientum - Op.ZERO",
+  "platforms": [
+   "pc"
+  ],
+  "app": "2725250",
+  "desc": "A 2D action-adventure where the story unfolds by tuning the stage with music. A play by Aleph and Liora, who have lost their memories. A beautiful yet eerie stage, and the secret of the forgotten theater await. Your choices will determine the play's ending — and their fates.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "adventure",
+   "rpg",
+   "sim",
+   "sport"
+  ]
+ },
+ {
   "title": "No Time",
   "platforms": [
    "pc"
@@ -5283,6 +5349,20 @@
   ]
  },
  {
+  "title": "Probably Stolen – симулятор магазина в киберпанке",
+  "platforms": [
+   "pc"
+  ],
+  "app": "4348910",
+  "desc": "В этом симуляторе магазина на мрачной киберпанковой космической станции вы будете создавать полезные вещи из хлама, торговать (легально и не очень) товарами сомнительного происхождения и разбираться в отношениях между фракциями. Решайте сами, на что вы готовы пойти, чтобы остаться на плаву.",
+  "year": 2026,
+  "genres": [
+   "rpg",
+   "sim",
+   "strategy"
+  ]
+ },
+ {
   "title": "Project Kat - Paper Lily Prologue",
   "platforms": [
    "pc"
@@ -5540,6 +5620,18 @@
   "app": "1684410",
   "desc": "Встречай глупеньких тюленей, ешь рыбов, плавай и отдыхай!",
   "year": 2023,
+  "genres": [
+   "action"
+  ]
+ },
+ {
+  "title": "Selkie's Salvage&Co.",
+  "platforms": [
+   "pc"
+  ],
+  "app": "4984870",
+  "desc": "Selkie’s Salvage&Co. is a first-person physics based incremental fishing game. Your task is to clean up the flooded planet! Fish up scrap, grind all of it down and collect trinkets of the past. Expand your salvaging operation and go beyond!",
+  "year": 2026,
   "genres": [
    "action"
   ]

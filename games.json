@@ -26237,6 +26237,19 @@
   ]
  },
  {
+  "title": "Bocce Beach",
+  "platforms": [
+   "steam"
+  ],
+  "app": "569940",
+  "desc": "Step into the tropical paradise of Bocce Beach and play an immersive bocce ball game in VR!",
+  "year": 2017,
+  "genres": [
+   "sport",
+   "strategy"
+  ]
+ },
+ {
   "title": "Bocce Time! VR",
   "platforms": [
    "steam"
@@ -26434,6 +26447,20 @@
   "year": 2016,
   "genres": [
    "action",
+   "sport"
+  ]
+ },
+ {
+  "title": "Boxing Underdog",
+  "platforms": [
+   "steam"
+  ],
+  "app": "2521800",
+  "desc": "Boxing Underdog is set in authentic abandoned arenas. Face off against four AI fighters, hone your skills in detailed training, then challenge players worldwide in ranked fights. Experience cutting-edge movement in every punch and dodge. Become the ultimate boxing champion!",
+  "year": 2026,
+  "genres": [
+   "action",
+   "sim",
    "sport"
   ]
  },
@@ -30431,6 +30458,18 @@
    "adventure",
    "rpg",
    "sim"
+  ]
+ },
+ {
+  "title": "EXOSHOCK",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3549390",
+  "desc": "EXOSHOCK is a 1–4 player co-op sci-fi PvE shooter driven by one vision: to deliver the most visceral combat. A hybrid co-op FPS where VR and PC players fight together in the same squad. Full cross-play. Play solo with AI teammates or in 4-player co-op. Solo works offline.",
+  "year": 2026,
+  "genres": [
+   "action"
   ]
  },
  {
@@ -40825,6 +40864,18 @@
   ]
  },
  {
+  "title": "SKY LEGENDS - An Aeropostal Epic",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3846630",
+  "desc": "Play as the iconic pioneers of aviation and fly their legendary aircraft. Between human challenges and technical feats, cross the extreme landscapes of the Sahara, the Andes, or the Atlantic in an immersive, narrative, and historical virtual reality adventure.",
+  "year": 2026,
+  "genres": [
+   "adventure"
+  ]
+ },
+ {
   "title": "Sky Squadron",
   "platforms": [
    "steam"
@@ -45459,6 +45510,20 @@
   "genres": [
    "action",
    "strategy"
+  ]
+ },
+ {
+  "title": "Voxel Playground",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4350620",
+  "desc": "A highly moddable destructible physics sandbox. Built for VR and non-VR.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "adventure",
+   "sim"
   ]
  },
  {

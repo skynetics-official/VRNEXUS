@@ -3731,6 +3731,20 @@
   ]
  },
  {
+  "title": "Gris",
+  "image": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg",
+  "genres": [
+   "action",
+   "adventure",
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2018,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
   "title": "Hellblade: Senua's Sacrifice",
   "image": "https://media.rawg.io/media/games/63f/63f0e68688cad279ed38cde931dbfcdb.jpg",
   "genres": [
@@ -3817,6 +3831,18 @@
   ],
   "rating": "8.4",
   "year": 2020,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "PICROSS S",
+  "image": "https://media.rawg.io/media/screenshots/853/853dddbf097b778b006a86892f47c5e9.jpg",
+  "genres": [
+   "puzzle"
+  ],
+  "rating": "8.4",
+  "year": 2017,
   "platforms": [
    "switch"
   ]
