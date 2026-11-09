@@ -23988,6 +23988,18 @@
   ]
  },
  {
+  "title": "Action Hero",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4688290",
+  "desc": "EXCLUSIVELY ON STEAM FRAME! Punch dinosaurs, battle shotgun-wielding ninjas and dodge devious traps in Action Hero, a blockbuster VR FPS with explosive set pieces and cinematic design.",
+  "year": 2026,
+  "genres": [
+   "action"
+  ]
+ },
+ {
   "title": "Adagio",
   "platforms": [
    "steam"
@@ -26062,6 +26074,18 @@
   "genres": [
    "action",
    "strategy"
+  ]
+ },
+ {
+  "title": "Birdseed",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3952540",
+  "desc": "Snap pics of the chunkiest, cutest birds in VR! Relax in lush forests, complete quirky daily quests, and fill your Journal. Whether you’re birding alone or together with friends, get cozy and escape to nature.",
+  "year": 2026,
+  "genres": [
+   "sim"
   ]
  },
  {
@@ -37675,6 +37699,20 @@
   ]
  },
  {
+  "title": "Otaku VR: Сила пресса и поцелуи",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4357410",
+  "desc": "Пройди игру и получи свои заслуженные 8 кубиков пресса! Профессиональный тренер-красотка будет рядом, даря поддержку и бесконечную мотивацию. Специальные тренировки для пресса в VR имитируют реальное напряжение и рост каждой мышцы.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "sim",
+   "sport"
+  ]
+ },
+ {
   "title": "OUBEY VR - Samurai",
   "platforms": [
    "steam"
@@ -37999,6 +38037,18 @@
   ]
  },
  {
+  "title": "PAYDAY: Aces High",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3456660",
+  "desc": "Ничто не сравнится с тем моментом, когда надеваешь маску. Планируйте дерзкие ограбления и устраивайте стильный хаос — одна взрывная операция за другой. PAYDAY: Aces High — лучшая кооперативная VR-игра про ограбления для компании до 4 игроков.",
+  "year": 2026,
+  "genres": [
+   "action"
+  ]
+ },
+ {
   "title": "Penn & Teller VR: Frankly Unfair, Unkind, Unnecessary, & Underhanded",
   "platforms": [
    "steam"
@@ -38153,6 +38203,18 @@
   "app": "486370",
   "desc": "Experience the immersion of Virtual Reality Pinball with The Summoning. Designed from the ground up for Virtual Reality the game features cutting edge physics, detailed physically based rendered graphics, full motion controller support and all the features you’d expect from a real Pinball table.",
   "year": 2017,
+  "genres": [
+   "sim"
+  ]
+ },
+ {
+  "title": "Pinball FX VR",
+  "platforms": [
+   "steam"
+  ],
+  "app": "4738360",
+  "desc": "Pinball FX VR brings the iconic franchise library to life with the ultimate ‘80s arcade atmosphere - now fully immersive in virtual reality! This game supports the Steam Frame hardware only.",
+  "year": 2026,
   "genres": [
    "sim"
   ]
@@ -40268,6 +40330,19 @@
   "genres": [
    "adventure",
    "sim"
+  ]
+ },
+ {
+  "title": "Scared by Squares",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3719480",
+  "desc": "Кооперативный хоррор в цифровой тюрьме. Исследуйте её в одиночку или с тремя друзьями, решайте головоломки, очищайте скверну фонариком и сражайтесь с творениями Ваятеля. Только не бойтесь квадратов.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "adventure"
   ]
  },
  {
@@ -44728,6 +44803,20 @@
   ]
  },
  {
+  "title": "Undead Development 2: Плотник апокалипсиса",
+  "platforms": [
+   "steam"
+  ],
+  "app": "1587920",
+  "desc": "Плотницкий экшен на выживание с молотком в руках. Приколачивайте всё, что попадётся под руку, собирайте хлам, забивайте гвозди и вооружайтесь законами физики, чтобы выстроить баррикады и сдержать орду. Боевой экшен в мире зомби-апокалипсиса для команд от 1 до 4 игроков в режиме сетевого кооператива.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "adventure",
+   "sim"
+  ]
+ },
+ {
   "title": "Underture",
   "platforms": [
    "steam"
@@ -46921,6 +47010,18 @@
   "year": 2018,
   "genres": [
    "action"
+  ]
+ },
+ {
+  "title": "White Room: Mind’s Prison",
+  "platforms": [
+   "steam"
+  ],
+  "app": "3370260",
+  "desc": "White Room: Mind's Prison — психологическая игра-хоррор. Выбирайте свою собственную историю в White Room. У вас есть 100 дней, чтобы выжить! Выживайте как можно дольше.",
+  "year": 2025,
+  "genres": [
+   "sim"
   ]
  },
  {
