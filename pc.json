@@ -2282,6 +2282,18 @@
   ]
  },
  {
+  "title": "BAIONLENJA",
+  "platforms": [
+   "pc"
+  ],
+  "app": "3509160",
+  "desc": "BAIONLENJA — это хардкорный шутер от первого лица, где всё завязано на умениях вроде B-HOP и BLADEJUMP. Исследуй мегаструктуру и ужасы, скрывающиеся внутри.",
+  "year": 2025,
+  "genres": [
+   "action"
+  ]
+ },
+ {
   "title": "Baldi's Basics Plus",
   "platforms": [
    "pc"
@@ -2661,6 +2673,20 @@
   ]
  },
  {
+  "title": "Casualties: Unknown",
+  "platforms": [
+   "pc"
+  ],
+  "app": "4576490",
+  "desc": "Casualties: Unknown — безжалостный симулятор выживания про исследование пещер. Вы — один из тысяч подопытных, отправленных на верную смерть. В поисках потерянного груза вам придётся пробраться сквозь одиннадцать подземных слоёв неизведанной планеты, выживая во враждебной среде.",
+  "year": 2026,
+  "genres": [
+   "action",
+   "adventure",
+   "sim"
+  ]
+ },
+ {
   "title": "Catgirl",
   "platforms": [
    "pc"
@@ -2705,6 +2731,18 @@
   "app": "2672090",
   "desc": "Привет, у тебя есть 5 минут на пустом месте? Давай поиграем в прятки с 100 котами в Осаке! 😻 Сможешь найти их всех?",
   "year": 2023,
+  "genres": [
+   "action"
+  ]
+ },
+ {
+  "title": "Cats and Seek: Tokyo",
+  "platforms": [
+   "pc"
+  ],
+  "app": "2925320",
+  "desc": "❤️ Четвертая часть серии Cats and Seek уже здесь! Мы отправляемся в Токио, чтобы найти кошек, которые играют по всему городу 🗼. Смогёшь найти их всех? 😻",
+  "year": 2025,
   "genres": [
    "action"
   ]
@@ -3852,6 +3890,18 @@
   ]
  },
  {
+  "title": "Heartfall — A Tale in Three Lives",
+  "platforms": [
+   "pc"
+  ],
+  "app": "5257930",
+  "desc": "From making new friends — or enemies — to exploring this island for secrets, how will your story end? Play as Grian in this visual-novel RPG and encounter new, shocking twists that you wouldn’t expect!",
+  "year": 2026,
+  "genres": [
+   "rpg"
+  ]
+ },
+ {
   "title": "HELLDIVERS 2",
   "year": 2024,
   "genres": [
@@ -4732,6 +4782,18 @@
   ]
  },
  {
+  "title": "MONOMOON",
+  "platforms": [
+   "pc"
+  ],
+  "app": "3285880",
+  "desc": "В MONOMOON путь вперёд найдут те, кто много знает — и не боится применять знания на практике. Лунные лучи подсветят скрытые в тенях тайны и подскажут, куда направить свои стопы в этом маленьком, но полном историй открытом мире.",
+  "year": 2026,
+  "genres": [
+   "adventure"
+  ]
+ },
+ {
   "title": "Monster Prom 2: Monster Camp",
   "platforms": [
    "pc"
@@ -4920,6 +4982,18 @@
    "rpg",
    "sim",
    "sport"
+  ]
+ },
+ {
+  "title": "Nightmare Kart",
+  "platforms": [
+   "pc"
+  ],
+  "app": "2930160",
+  "desc": "Zoom through gothic streets in this horror themed vehicular combat racing game!",
+  "year": 2024,
+  "genres": [
+   "racing"
   ]
  },
  {
@@ -5361,6 +5435,18 @@
   "year": 2025,
   "genres": [
    "action"
+  ]
+ },
+ {
+  "title": "Playrooms",
+  "platforms": [
+   "pc"
+  ],
+  "app": "5037510",
+  "desc": "Thousands of balls are scattered throughout the playrooms. Someone should put them away, and there's no one here but you. Almost no one.",
+  "year": 2026,
+  "genres": [
+   "sim"
   ]
  },
  {
@@ -7063,6 +7149,18 @@
   ]
  },
  {
+  "title": "Yuki「清醒梦」",
+  "platforms": [
+   "pc"
+  ],
+  "app": "3909220",
+  "desc": "Explore an abandoned school where memories linger longer than the living. Uncover the mystery of your best friend’s disappearance. Dodge bullets.",
+  "year": 2025,
+  "genres": [
+   "adventure"
+  ]
+ },
+ {
   "title": "Z.A.T.O. // I Love the World and Everything In It",
   "platforms": [
    "pc"
@@ -7512,6 +7610,20 @@
   "app": "1754720",
   "desc": "这是一个独属三国玩家的幻想世界，新奇独特，内容丰富。你将扮演穿越者，在三国中自由实现各种幻想，体验别样乐趣，也可轻松挂机。但本作是纯文字形式，没有精美画面、上手略有难度，由一个业余作者凭热爱独立开发。如有任何反馈，欢迎随时联系作者。",
   "year": 2021,
+  "genres": [
+   "rpg",
+   "sim",
+   "strategy"
+  ]
+ },
+ {
+  "title": "重生2我独自逆袭 Re2 I Rise Alone",
+  "platforms": [
+   "pc"
+  ],
+  "app": "3816120",
+  "desc": "Interactive movie‑game blending SLG gameplay and real‑life romance simulation: Step into the shoes of an underdog and live out a power‑fantasy rags‑to‑riches story. Combat, character progression, drinking and romance — all in one! 100‑GB content volume- redefines your power‑fantasy experience!",
+  "year": 2026,
   "genres": [
    "rpg",
    "sim",

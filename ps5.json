@@ -3454,6 +3454,18 @@
   ]
  },
  {
+  "title": "Star Wars: Galactic Racer",
+  "image": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
+  "genres": [
+   "racing"
+  ],
+  "rating": "8.0",
+  "year": 2026,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
   "title": "Subnautica: Below Zero",
   "image": "https://media.rawg.io/media/games/437/4377bf00ded8a2ba781aa74d8bff9220.jpg",
   "genres": [
@@ -4094,6 +4106,19 @@
   ],
   "rating": "7.8",
   "year": 2023,
+  "platforms": [
+   "ps5"
+  ]
+ },
+ {
+  "title": "Prodeus",
+  "image": "https://media.rawg.io/media/games/f7a/f7a0b6c68b86058de31414ebf1355acf.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "7.8",
+  "year": 2022,
   "platforms": [
    "ps5"
   ]
