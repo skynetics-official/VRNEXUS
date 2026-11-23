@@ -283,6 +283,18 @@
   ]
  },
  {
+  "title": "Call of Duty: Modern Warfare 4",
+  "image": "https://media.rawg.io/media/games/a93/a9304d97c8f264da59566a0f5e0a2181.jpeg",
+  "genres": [
+   "shooter"
+  ],
+  "rating": "8.8",
+  "year": 2026,
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
   "title": "Elden Ring",
   "year": 2022,
   "genres": [
@@ -4130,6 +4142,19 @@
   ],
   "rating": "7.6",
   "year": 2022,
+  "platforms": [
+   "xbox"
+  ]
+ },
+ {
+  "title": "The Elder Scrolls IV: Oblivion Remastered",
+  "image": "https://media.rawg.io/media/games/e56/e56b78444369c6b3ae92ae7f669bf8cd.jpg",
+  "genres": [
+   "action",
+   "rpg"
+  ],
+  "rating": "7.6",
+  "year": 2025,
   "platforms": [
    "xbox"
   ]

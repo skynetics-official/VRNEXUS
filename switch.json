@@ -1,5 +1,18 @@
 [
  {
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "image": "https://media.rawg.io/media/games/c3b/c3bc70310175785b0c9d7bfc93624d5f.jpg",
+  "genres": [
+   "adventure",
+   "action"
+  ],
+  "rating": "10.0",
+  "year": 2026,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
   "title": "The Witcher 3 Wild Hunt - Complete Edition",
   "image": "https://media.rawg.io/media/games/52b/52be96c19be0d79eeb8664e4ca2aabd5.jpg",
   "genres": [
@@ -1640,6 +1653,18 @@
   ],
   "rating": "8.7",
   "year": 2016,
+  "platforms": [
+   "switch"
+  ]
+ },
+ {
+  "title": "Scheming Through The Zombie Apocalypse: The Beginning",
+  "image": "https://media.rawg.io/media/screenshots/b0a/b0a2d2ca82acc669a0b1baafb0919448.jpg",
+  "genres": [
+   "adventure"
+  ],
+  "rating": "8.7",
+  "year": 2018,
   "platforms": [
    "switch"
   ]
